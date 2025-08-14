@@ -1,7 +1,7 @@
 # content/guides/drush/03-drush-commands.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/03-drush-commands.md
-> **Generated**: 2025-08-14 18:08:51
+> **Generated**: 2025-08-14 21:06:17
 
 ---
 
