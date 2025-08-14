@@ -45,9 +45,9 @@ find_existing_installations() {
     # Check command file for paths (check both old and new command names)
     local cmd_file=""
     if [[ -f ~/.claude/commands/docs.md ]]; then
-        cmd_file="~/.claude/commands/docs.md"
+        cmd_file="$HOME/.claude/commands/docs.md"
     elif [[ -f ~/.claude/commands/pantheon-docs.md ]]; then
-        cmd_file="~/.claude/commands/pantheon-docs.md"
+        cmd_file="$HOME/.claude/commands/pantheon-docs.md"
     fi
     
     if [[ -n "$cmd_file" ]]; then
@@ -120,7 +120,9 @@ find_existing_installations() {
     fi
     
     # Deduplicate and exclude new location
-    printf '%s\n' "${paths[@]}" | grep -v "^$INSTALL_DIR$" | sort -u
+    if [[ ${#paths[@]} -gt 0 ]]; then
+        printf '%s\n' "${paths[@]}" | grep -v "^$INSTALL_DIR$" | sort -u
+    fi
 }
 
 # Function to migrate from old location
@@ -355,7 +357,10 @@ existing_installs=()
 while IFS= read -r line; do
     [[ -n "$line" ]] && existing_installs+=("$line")
 done < <(find_existing_installations)
-OLD_INSTALLATIONS=("${existing_installs[@]}")  # Save for later cleanup
+OLD_INSTALLATIONS=()
+if [[ ${#existing_installs[@]} -gt 0 ]]; then
+    OLD_INSTALLATIONS=("${existing_installs[@]}")  # Save for later cleanup
+fi
 
 if [[ ${#existing_installs[@]} -gt 0 ]]; then
     echo "Found ${#existing_installs[@]} existing installation(s):"
@@ -363,6 +368,8 @@ if [[ ${#existing_installs[@]} -gt 0 ]]; then
         echo "  - $install"
     done
     echo ""
+else
+    echo "No existing installations found"
 fi
 
 # Check if already installed at new location
