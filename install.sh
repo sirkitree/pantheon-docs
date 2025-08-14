@@ -111,8 +111,12 @@ find_existing_installations() {
     fi
     
     # Also check current directory if running from an installation
+    # But exclude it if we're running the installer from the development directory
     if [[ -f "./docs/docs_manifest.json" && "$(pwd)" != "$INSTALL_DIR" ]]; then
-        paths+=("$(pwd)")
+        # Don't add current directory if we're running install.sh from it (development scenario)
+        if [[ ! -f "./install.sh" ]]; then
+            paths+=("$(pwd)")
+        fi
     fi
     
     # Deduplicate and exclude new location
@@ -320,16 +324,21 @@ cleanup_old_installations() {
         
         echo "  - $old_dir"
         
-        # Check if it has uncommitted changes
+        # Check if it has uncommitted changes or if it's a development directory
         if [[ -d "$old_dir/.git" ]]; then
             cd "$old_dir"
-            if [[ -z "$(git status --porcelain 2>/dev/null)" ]]; then
+            # Preserve if it has uncommitted changes OR if it contains install.sh (development directory)
+            if [[ -z "$(git status --porcelain 2>/dev/null)" && ! -f "./install.sh" ]]; then
                 cd - >/dev/null
                 rm -rf "$old_dir"
                 echo "    ✓ Removed (clean)"
             else
                 cd - >/dev/null
-                echo "    ⚠️  Preserved (has uncommitted changes)"
+                if [[ -f "./install.sh" ]]; then
+                    echo "    ⚠️  Preserved (development directory)"
+                else
+                    echo "    ⚠️  Preserved (has uncommitted changes)"
+                fi
             fi
         else
             echo "    ⚠️  Preserved (not a git repo)"

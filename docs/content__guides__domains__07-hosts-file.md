@@ -1,7 +1,7 @@
 # content/guides/domains/07-hosts-file.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/07-hosts-file.md
-> **Generated**: 2025-08-14 10:06:15
+> **Generated**: 2025-08-14 10:28:22
 
 ---
 
