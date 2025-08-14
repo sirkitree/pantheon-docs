@@ -1,0 +1,86 @@
+# content/guides/woocommerce/05-initialize-prod.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/woocommerce/05-initialize-prod.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+title: WooCommerce Quick Start
+subtitle: Initialize Production
+description: In step five of the WooCommerce Quick Start guide, learn how to initialize your production environment.
+contenttype: [guide]
+innav: [false]
+categories: [ecommerce]
+cms: [wordpress]
+audience: [development]
+product: [--]
+integration: [woocommerce]
+tags: [launch, plugins, site]
+type: guide
+permalink: docs/guides/woocommerce/initialize-prod/
+editpath: woocommerce/05-initialize-prod.md
+---
+Now that our **<Icon icon="equalizer" /> Dev** site is configured and backed up, let's initialize our production environments (**<Icon icon="equalizer" /> Test** and **<Icon icon="wavePulse" /> Live**) so we can launch our store.
+
+1. In your site settings in Pantheon go to the **<Icon icon="equalizer" /> Test** tab and click **Initialize Test Environment**:
+
+    ![Initializing the test environment](../../../images/guides/woocommerce/17-Pantheon-dashboard-initialize-test-environment.png)
+
+    It should only take a minute or two. And you'll know you're done when you see a message in the deploy log:
+
+    ![Test environment deploy log](../../../images/guides/woocommerce/18-Pantheon-dashboard-test-environment-deploy-log.png)
+
+    Now we can move the test site to live mode.
+
+2. We can repeat the process for Live by clicking on the **<Icon icon="wavePulse" /> Live** tab, then **Initialize Live Environment**:
+
+    ![Initializing the live environment](../../../images/guides/woocommerce/19-Pantheon-dashboard-initialize-live-environment.png)
+
+    As soon as it's done you'll see a message in the deploy log.
+
+    ![Visit live site button on the Pantheon dashboard](../../../images/guides/woocommerce/20-Pantheon-dashboard-visit-live-site.png)
+
+3. Now is a great time to view the live site and make sure everything is up your standards.
+
+    ![WooCommerce site home page](../../../images/guides/woocommerce/21-WooCommerce-front-page.png)
+
+## Create a Test Order
+
+Our site is looking good and loading really fast! Now to show you the power of multiple environments with version control, we're going to make an order on our **<Icon icon="wavePulse" /> Live** environment and pull that information back down into our **<Icon icon="equalizer" /> Test** environment.
+
+1. When you install Storefront it prompts you to add demo products. If you don't have any demo products you can manually create products:
+
+    ![WooCommerce demo products on the site front end](../../../images/guides/woocommerce/22-WooCommerce-demo-products.png)
+
+    Add a product to the cart and proceed to checkout.
+
+    <Alert title="Note" type="info">
+      If you didn't configure shipping or payment earlier you'll have to do so now. For easy testing I recommend enabling Free Shipping & Cash On Delivery, which requires the least setup. Also, if you enabled Jetpack earlier it will be in safe mode.
+    </Alert>
+
+2. Continue through the checkout process:
+
+    ![WooCommerce checkout](../../../images/guides/woocommerce/23-WooCommerce-checkout.png)
+
+3. We've placed our order. If you want you can login to your admin screen and see all of the details:
+
+    ![WooCommerce order received thank you message](../../../images/guides/woocommerce/24-WooCommerce-order-received-thank-you-message.png)
+
+## Clone Content Down
+
+Now let's bring these changes back to our test site:
+
+1. In our site settings in Pantheon go to either your **<Icon icon="equalizer" /> Test** or **<Icon icon="wrench" /> Dev** environment. Then click the **<Icon icon="server" /> Database / Files** tab.
+
+2. Select **Live** in the dropdown for **From this environment**.
+
+3. Only select **Clone Database**, do not clone files.
+
+4. Finally click **Clone the Database from Live into the Test Environment**:
+
+  ![Cloning database and files on the Pantheon dashboard](../../../images/guides/woocommerce/25-Pantheon-dashboard-clone-database-files.png)
+
+  If you login to WordPress you'll see the order in the **<Icon icon="equalizer" /> Test** environment:
+
+  ![A test order in the WooCommerce dashboard](../../../images/guides/woocommerce/26-WooCommerce-dashboard-test-order.png)

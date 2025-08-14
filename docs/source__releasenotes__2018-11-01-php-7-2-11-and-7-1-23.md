@@ -1,0 +1,13 @@
+# source/releasenotes/2018-11-01-php-7-2-11-and-7-1-23.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2018-11-01-php-7-2-11-and-7-1-23.md
+> **Generated**: 2025-08-14 09:59:10
+
+---
+
+---
+title: PHP 7.2.11 and 7.1.23
+published_date: "2018-11-01"
+categories: [infrastructure]
+---
+Updated to PHP 7.2.11 and 7.1.23. For more information, see [http://php.net/ChangeLog-7.php#7.2.11](http://php.net/ChangeLog-7.php#7.2.11 ) and [http://php.net/ChangeLog-7.php#7.1.23](http://php.net/ChangeLog-7.php#7.1.23).

@@ -1,0 +1,38 @@
+# content/partials/cache-busting.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/cache-busting.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+contenttype: [partial]
+categories: [cache]
+cms: [--]
+product: [--]
+integration: [--]
+tags: [cookies]
+reviewed: ""
+---
+
+The code block below shows the **Cache-Busting Cookie Patterns** section of Pantheon's Varnish configuration (`.vcl`) file for your reference. Advanced Drupal and WordPress developers should reference this code if they have any questions regarding what cookie patterns the Global CDN will not cache:
+
+```none
+NO_CACHE
+S+ESS[a-z0-9]+
+fbs[a-z0-9_]+
+SimpleSAML[A-Za-z]+
+PHPSESSID
+wordpress[A-Za-z0-9_]*
+wp-[A-Za-z0-9_]+
+comment_author_[a-z0-9_]+
+duo_wordpress_auth_cookie
+duo_secure_wordpress_auth_cookie
+bp_completed_create_steps # BuddyPress cookie used when creating groups
+bp_new_group_id # BuddyPress cookie used when creating groups
+wp-resetpass-[A-Za-z0-9_]+
+(wp_)?woocommerce[A-Za-z0-9_-]+
+amazon_Login_[A-Za-z0-9_]+
+```
+
+Note that `wp-wpml_*` cookies are an exception to the above WordPress pattern. Pantheon will treat language-preference cookies from WPML as cache _varying_ cookies.

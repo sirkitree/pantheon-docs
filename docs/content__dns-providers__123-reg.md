@@ -1,0 +1,76 @@
+# content/dns-providers/123-reg.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/123-reg.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+title: 123 Reg Domain Configuration
+provider: Google
+draft: true
+description: Learn how to point your 123 Reg domain to a Pantheon site.
+tags: [domains]
+contributors: [--]
+permalink: docs/:basename
+editpath: dns-providers/123-reg.md/
+contenttype: [doc]
+innav: [true]
+categories: [domains, launch]
+cms: [--]
+audience: [--]
+product: [cdn]
+integration: [--]
+---
+## Before You Begin
+Be sure that you have a:
+
+
+- Registered domain name using 123 Reg to host DNS
+- [Paid Pantheon plan](/guides/launch/plans)
+- [Domain connected](/guides/launch/domains) to the target Pantheon environment (typically Live)
+
+## Configure DNS Records on 123 Reg
+
+### A Record
+1. Click **DNS** in the menu bar.
+2. Select **A** from the dropdown menu.
+4. Enter **@** in the **Name** field and enter the A record value provided by Pantheon in the **IPv4 Address** field.
+5. Set the TTL to **30 minutes**.
+6. Disable Cloudflare's CDN by clicking the cloud icon (should be gray, not orange).
+6. Click **Add Record**.
+
+### AAAA Records
+1. Select **AAAA** from the dropdown menu.
+2. Enter **@** in the **Name** field and enter the A record value provided by Pantheon in the **IPv6 Address** field.
+3. Set the TTL to **30 minutes**.
+4. Disable Cloudflare's CDN by clicking the cloud icon (should be gray, not orange).
+5. Click **Add Record**.
+6. Repeat steps 1-5 for the second AAAA record value provided by Pantheon. There are two AAAA records for improved uptime and reliability.
+
+### Subdomains
+Create one A record and 2 AAAA records for the given subdomain (e.g., `www.example.com`):
+
+1. Select **A** from the dropdown menu.
+2. Enter **www** in the **Hostname** field and enter the A record value provided by Pantheon (e.g. `23.185.0.2`) in the **Destination IPv4 address** field.
+3. Click **Add new entry**.
+4. Repeat steps 1-3 for the two AAAA records.
+
+### TXT Record
+The TXT record is only required if you need to prove ownership of your domain in order to pre-provision certificates to avoid HTTPS service interruption.
+
+1. Select **TXT** from the dropdown menu.
+2. Leave the **Name** field blank and enter the record value provided by Pantheon in the **TXT Content** field.
+3. Set the TTL to **30 minutes**.
+4. Click **Add Record**.
+
+## Cloudflare Docs
+
+* [How do I add A records?](https://support.cloudflare.com/hc/en-us/articles/200169096-How-do-I-add-A-records-)
+* [How do I point my domain name to an IP address?](https://www.123-reg.co.uk/support/domains/how-do-i-point-my-domain-name-to-an-ip-address/)
+
+## Next Steps
+
+* [Launch Essentials: Domains & HTTPS](/guides/launch/domains)
+
+* [Launch Essentials: Redirect to a Primary Domain](/guides/launch/redirects)

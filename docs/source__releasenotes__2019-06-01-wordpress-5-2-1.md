@@ -1,0 +1,13 @@
+# source/releasenotes/2019-06-01-wordpress-5-2-1.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2019-06-01-wordpress-5-2-1.md
+> **Generated**: 2025-08-14 09:59:33
+
+---
+
+---
+title: WordPress 5.2.1
+published_date: "2019-06-01"
+categories: [wordpress]
+---
+WordPress 5.2.1  is available to apply as 1-click updates on Pantheon site dashboards. . For more information, see <https://wordpress.org/news/2019/05/jaco/>.

@@ -1,0 +1,1 @@
+# No Python dependencies needed - script uses only built-in libraries and git

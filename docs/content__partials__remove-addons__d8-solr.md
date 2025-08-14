@@ -1,0 +1,21 @@
+# content/partials/remove-addons/d8-solr.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-addons/d8-solr.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+contenttype: [partial]
+categories: [search]
+cms: [--]
+product: [search]
+integration: [--]
+tags: [--]
+reviewed: ""
+---
+
+1. Disable the [Search API Solr Search](https://www.drupal.org/project/search_api_solr), [Search API](https://www.drupal.org/project/search_api), and [Pantheon Apache Solr](https://www.drupal.org/project/search_api_pantheon) modules.
+1. Delete all schema configurations from `settings.php`.
+1. Commit and deploy code changes to the Live environment.
+1. Go to **<Icon icon="gear" /> Settings** &gt; **Add Ons** and click **Remove** for Solr.

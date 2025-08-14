@@ -1,0 +1,13 @@
+# source/releasenotes/2020-04-01-new-relic-agent-9-7-0-258.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2020-04-01-new-relic-agent-9-7-0-258.md
+> **Generated**: 2025-08-14 10:00:00
+
+---
+
+---
+title: New Relic Agent 9.7.0.258
+published_date: "2020-04-01"
+categories: [infrastructure, performance, tools-apis]
+---
+The New Relic agent has been upgraded from version 9.2.0.247 to version 9.7.0.258 platform-wide. This upgrade fixes a potential segfault with PHP 7.3. For more information, see the [New Relic Agent release notes](https://docs.newrelic.com/docs/release-notes/agent-release-notes/php-release-notes/php-agent-970258).

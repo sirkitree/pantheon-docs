@@ -1,0 +1,13 @@
+# source/releasenotes/2017-06-01-terminus-1-4-0.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2017-06-01-terminus-1-4-0.md
+> **Generated**: 2025-08-14 09:58:15
+
+---
+
+---
+title: Terminus 1.4.0
+published_date: "2017-06-01"
+categories: [tools-apis]
+---
+If you haven't updated in a while, check out the <a data-proofer-ignore href="/terminus/updates/#changelog">Terminus Changelog</a> to see what's new and <a data-proofer-ignore href="/terminus/install">update to the current release</a>.

@@ -1,0 +1,13 @@
+# source/releasenotes/2021-08-01-wordpress-5-8.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2021-08-01-wordpress-5-8.md
+> **Generated**: 2025-08-14 10:00:53
+
+---
+
+---
+title: WordPress 5.8
+published_date: "2021-08-01"
+categories: [action-required, wordpress, security]
+---
+[WordPress 5.8](https://wordpress.org/news/2021/07/tatum/)[News – Releases – WordPress.org](https://wordpress.org/news/category/releases/) is available on the Pantheon platform. This release fixes security vulnerabilities, and users are urged to upgrade their sites immediately. Detailed information on applying and debugging core updates can be found in the [Core Updates documentation](/core-updates).

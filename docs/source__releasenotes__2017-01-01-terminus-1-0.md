@@ -1,0 +1,13 @@
+# source/releasenotes/2017-01-01-terminus-1-0.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2017-01-01-terminus-1-0.md
+> **Generated**: 2025-08-14 09:57:59
+
+---
+
+---
+title: Terminus 1.0
+published_date: "2017-01-01"
+categories: [tools-apis]
+---
+After months of retooling and feedback from users, we're excited to officially release Terminus 1.0! This release comes with a commitment to backwards compatibility for scripts and plugins, as well as a new core engine based on Symfony Console. Everything you've been doing with Terminus is included in this new version with more additions continually coming! [Learn more about this new feature](https://pantheon.io/features/command-line-interface) and check out the [Terminus Guide](/terminus).

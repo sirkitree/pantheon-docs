@@ -1,0 +1,13 @@
+# source/releasenotes/2015-09-01-terminus-0-8-0.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2015-09-01-terminus-0-8-0.md
+> **Generated**: 2025-08-14 09:57:10
+
+---
+
+---
+title: Terminus 0.8.0
+published_date: "2015-09-01"
+categories: [tools-apis]
+---
+Our applications team released [Terminus versions through 0.8.1](https://github.com/pantheon-systems/cli/blob/master/CHANGELOG.md#081---2015-09-28) -- a faster, more consistent CLI which is more friendly to advanced scripting. Expect 1.0 soon!

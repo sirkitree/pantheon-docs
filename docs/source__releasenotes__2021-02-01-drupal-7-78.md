@@ -1,0 +1,13 @@
+# source/releasenotes/2021-02-01-drupal-7-78.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2021-02-01-drupal-7-78.md
+> **Generated**: 2025-08-14 10:00:34
+
+---
+
+---
+title: Drupal 7.78
+published_date: "2021-02-01"
+categories: [drupal, security]
+---
+[Drupal 7.78](https://www.drupal.org/project/drupal/releases/7.78) is now available on the Pantheon platform. This release fixes security vulnerabilities, and users are urged to upgrade their sites immediately. Detailed information on applying and debugging core updates can be found in the [Core Updates documentation](/core-updates). For more information, see the [Drupal 7.78](https://www.drupal.org/project/drupal/releases/7.78) release notes.

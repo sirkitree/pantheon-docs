@@ -1,0 +1,13 @@
+# source/releasenotes/2021-06-01-drupal-9-1-8.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2021-06-01-drupal-9-1-8.md
+> **Generated**: 2025-08-14 10:00:45
+
+---
+
+---
+title: Drupal 9.1.8
+published_date: "2021-06-01"
+categories: [drupal]
+---
+[Drupal 9.1.8](https://www.drupal.org/project/drupal/releases/9.1.8) is now available for production sites. [Drupal 9](/drupal) sites on Pantheon use [Integrated Composer](/guides/integrated-composer), enabling one-click core updates through the Dashboard. To check for available updates, click **Check Now** from the site Dashboard **Dev** tab.

@@ -1,0 +1,22 @@
+# content/partials/terminus/auth-login.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/terminus/auth-login.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+contenttype: [partial]
+categories: [overview]
+cms: [--]
+product: [terminus]
+integration: [--]
+tags: [--]
+reviewed: ""
+---
+
+## Login Duration
+
+The Platform logs users out after 24 hours of inactivity, and forces all users to log back into the Platform every 30 days.
+
+This includes all users authenticated via Terminus `auth:login`.

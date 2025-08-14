@@ -1,0 +1,13 @@
+# source/releasenotes/2021-05-01-documentation.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/source/releasenotes/2021-05-01-documentation.md
+> **Generated**: 2025-08-14 10:00:41
+
+---
+
+---
+title: Documentation
+published_date: "2021-05-01"
+categories: [documentation]
+---
+[Upgrade from Drupal 8 to Drupal 9 with Integrated Composer](/guides/drupal-hosted-md) - Convert a Drupal 8 site to a Drupal 9 site managed with Integrated Composer. If you have more questions about switching to Drupal 9, stop by our [Thursday office hours](https://pantheon.io/developers/office-hours).

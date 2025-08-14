@@ -1,0 +1,26 @@
+# content/partials/view-invoices.md
+
+> **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/view-invoices.md
+> **Generated**: 2025-08-14 10:06:15
+
+---
+
+---
+contenttype: [partial]
+categories: [billing]
+cms: [--]
+product: [--]
+integration: [--]
+tags: [--]
+reviewed: ""
+---
+
+1. Navigate to the User Dashboard, click the **<Icon icon="gear" /> Account** tab and select **Billing**.
+
+    - Sites are listed below the card to which they are assigned.
+
+1. Find the credit card the invoice was billed to and click **View Invoices** to view recent invoices.
+
+    - Up to 100 of the most recent invoices are shown in the Invoice History.
+
+1.  Click **View Invoice** to view a specific invoice.
