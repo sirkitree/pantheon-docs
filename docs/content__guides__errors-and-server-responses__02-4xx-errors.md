@@ -1,7 +1,7 @@
 # content/guides/errors-and-server-responses/02-4xx-errors.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/errors-and-server-responses/02-4xx-errors.md
-> **Generated**: 2025-08-15 12:10:51
+> **Generated**: 2025-08-15 15:06:28
 
 ---
 

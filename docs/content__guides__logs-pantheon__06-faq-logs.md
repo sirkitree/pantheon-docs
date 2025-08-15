@@ -1,7 +1,7 @@
 # content/guides/logs-pantheon/06-faq-logs.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/logs-pantheon/06-faq-logs.md
-> **Generated**: 2025-08-15 12:10:51
+> **Generated**: 2025-08-15 15:06:28
 
 ---
 
