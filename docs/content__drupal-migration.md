@@ -1,7 +1,7 @@
 # content/drupal-migration.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-migration.md
-> **Generated**: 2025-08-15 06:09:40
+> **Generated**: 2025-08-15 09:07:19
 
 ---
 
