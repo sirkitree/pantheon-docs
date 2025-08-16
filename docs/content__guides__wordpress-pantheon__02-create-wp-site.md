@@ -1,7 +1,7 @@
 # content/guides/wordpress-pantheon/02-create-wp-site.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-pantheon/02-create-wp-site.md
-> **Generated**: 2025-08-16 15:05:48
+> **Generated**: 2025-08-16 18:07:41
 
 ---
 
