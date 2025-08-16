@@ -1,7 +1,7 @@
 # content/partials/confirm-db-upgrade-workflow.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/confirm-db-upgrade-workflow.md
-> **Generated**: 2025-08-16 12:10:08
+> **Generated**: 2025-08-16 15:05:48
 
 ---
 
