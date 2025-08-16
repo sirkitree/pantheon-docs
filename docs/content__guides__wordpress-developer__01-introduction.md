@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/01-introduction.md
-> **Generated**: 2025-08-16 06:08:14
+> **Generated**: 2025-08-16 09:06:25
 
 ---
 

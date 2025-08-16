@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted-composer/15-troubleshooting.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted-composer/15-troubleshooting.md
-> **Generated**: 2025-08-16 06:08:14
+> **Generated**: 2025-08-16 09:06:25
 
 ---
 
