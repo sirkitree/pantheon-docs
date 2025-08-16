@@ -1,7 +1,7 @@
 # content/guides/sftp/05-vscode-sftp.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sftp/05-vscode-sftp.md
-> **Generated**: 2025-08-16 03:26:34
+> **Generated**: 2025-08-16 06:08:14
 
 ---
 

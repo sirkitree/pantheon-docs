@@ -1,7 +1,7 @@
 # content/guides/drush/09-troubleshoot-drush.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/09-troubleshoot-drush.md
-> **Generated**: 2025-08-16 03:26:34
+> **Generated**: 2025-08-16 06:08:14
 
 ---
 
