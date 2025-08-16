@@ -1,7 +1,7 @@
 # content/partials/dns-primary.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/dns-primary.md
-> **Generated**: 2025-08-15 21:05:54
+> **Generated**: 2025-08-16 00:26:58
 
 ---
 
