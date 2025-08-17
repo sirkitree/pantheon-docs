@@ -1,7 +1,7 @@
 # content/spider-traps.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/spider-traps.md
-> **Generated**: 2025-08-17 03:33:38
+> **Generated**: 2025-08-17 06:08:28
 
 ---
 
