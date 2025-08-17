@@ -1,7 +1,7 @@
 # content/guides/wordpress-google-sso/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-google-sso/01-introduction.md
-> **Generated**: 2025-08-17 06:08:28
+> **Generated**: 2025-08-17 09:06:10
 
 ---
 
