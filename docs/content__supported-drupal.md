@@ -1,7 +1,7 @@
 # content/supported-drupal.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/supported-drupal.md
-> **Generated**: 2025-08-17 18:07:45
+> **Generated**: 2025-08-17 21:05:51
 
 ---
 

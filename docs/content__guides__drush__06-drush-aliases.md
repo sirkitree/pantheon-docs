@@ -1,7 +1,7 @@
 # content/guides/drush/06-drush-aliases.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/06-drush-aliases.md
-> **Generated**: 2025-08-17 18:07:44
+> **Generated**: 2025-08-17 21:05:50
 
 ---
 
