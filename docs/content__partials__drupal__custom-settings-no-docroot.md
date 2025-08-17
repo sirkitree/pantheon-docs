@@ -1,7 +1,7 @@
 # content/partials/drupal/custom-settings-no-docroot.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/custom-settings-no-docroot.md
-> **Generated**: 2025-08-17 09:06:10
+> **Generated**: 2025-08-17 12:10:04
 
 ---
 
