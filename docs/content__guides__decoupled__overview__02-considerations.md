@@ -1,7 +1,7 @@
 # content/guides/decoupled/overview/02-considerations.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/overview/02-considerations.md
-> **Generated**: 2025-08-18 06:10:21
+> **Generated**: 2025-08-18 09:09:31
 
 ---
 
