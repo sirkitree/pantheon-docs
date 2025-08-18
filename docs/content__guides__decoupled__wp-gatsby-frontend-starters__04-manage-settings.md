@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-gatsby-frontend-starters/04-manage-settings.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-gatsby-frontend-starters/04-manage-settings.md
-> **Generated**: 2025-08-18 00:30:38
+> **Generated**: 2025-08-18 03:35:06
 
 ---
 
