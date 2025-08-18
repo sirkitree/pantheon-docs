@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/02-plugins.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/02-plugins.md
-> **Generated**: 2025-08-18 12:11:36
+> **Generated**: 2025-08-18 15:06:59
 
 ---
 
