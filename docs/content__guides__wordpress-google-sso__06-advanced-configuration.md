@@ -1,7 +1,7 @@
 # content/guides/wordpress-google-sso/06-advanced-configuration.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-google-sso/06-advanced-configuration.md
-> **Generated**: 2025-08-17 21:05:51
+> **Generated**: 2025-08-18 00:30:38
 
 ---
 
