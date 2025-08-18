@@ -1,7 +1,7 @@
 # content/debug-connections.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/debug-connections.md
-> **Generated**: 2025-08-18 15:06:59
+> **Generated**: 2025-08-18 18:09:05
 
 ---
 

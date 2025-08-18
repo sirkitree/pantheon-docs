@@ -1,7 +1,7 @@
 # content/terminus/13-terminus-4-0.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/13-terminus-4-0.md
-> **Generated**: 2025-08-18 15:06:59
+> **Generated**: 2025-08-18 18:09:06
 
 ---
 
