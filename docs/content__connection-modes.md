@@ -1,7 +1,7 @@
 # content/connection-modes.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/connection-modes.md
-> **Generated**: 2025-08-19 15:07:00
+> **Generated**: 2025-08-19 18:08:25
 
 ---
 
