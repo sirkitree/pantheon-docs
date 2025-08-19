@@ -1,7 +1,7 @@
 # content/mime-types.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/mime-types.md
-> **Generated**: 2025-08-19 09:06:51
+> **Generated**: 2025-08-19 12:10:48
 
 ---
 
