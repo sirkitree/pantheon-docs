@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/09-automate.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/09-automate.md
-> **Generated**: 2025-08-19 12:10:48
+> **Generated**: 2025-08-19 15:07:00
 
 ---
 

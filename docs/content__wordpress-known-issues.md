@@ -1,7 +1,7 @@
 # content/wordpress-known-issues.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/wordpress-known-issues.md
-> **Generated**: 2025-08-19 12:10:48
+> **Generated**: 2025-08-19 15:07:00
 
 ---
 
