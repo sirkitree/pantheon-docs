@@ -1,7 +1,7 @@
 # content/drupal-caching-views.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-caching-views.md
-> **Generated**: 2025-08-20 06:09:27
+> **Generated**: 2025-08-20 09:07:27
 
 ---
 
