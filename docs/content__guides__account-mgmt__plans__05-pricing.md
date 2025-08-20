@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/plans/05-pricing.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/plans/05-pricing.md
-> **Generated**: 2025-08-20 03:23:34
+> **Generated**: 2025-08-20 06:09:27
 
 ---
 
