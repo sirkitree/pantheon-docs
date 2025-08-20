@@ -1,7 +1,7 @@
 # content/guides/wp-cli/05-wp-cli-sql-php-subcommands.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wp-cli/05-wp-cli-sql-php-subcommands.md
-> **Generated**: 2025-08-20 18:08:38
+> **Generated**: 2025-08-20 21:05:53
 
 ---
 
