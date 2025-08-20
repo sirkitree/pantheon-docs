@@ -1,7 +1,7 @@
 # content/partials/migrate/drupal-modules-themes.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/drupal-modules-themes.md
-> **Generated**: 2025-08-20 09:07:27
+> **Generated**: 2025-08-20 12:10:49
 
 ---
 
