@@ -1,7 +1,7 @@
 # content/partials/migrate/d8composer-d8composer-requirements.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/d8composer-d8composer-requirements.md
-> **Generated**: 2025-08-21 12:10:44
+> **Generated**: 2025-08-21 15:07:08
 
 ---
 
