@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/03-mu-plugin.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/03-mu-plugin.md
-> **Generated**: 2025-08-21 06:10:03
+> **Generated**: 2025-08-21 09:07:12
 
 ---
 
