@@ -1,7 +1,7 @@
 # content/cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/cache.md
-> **Generated**: 2025-08-21 18:08:27
+> **Generated**: 2025-08-21 21:05:50
 
 ---
 
