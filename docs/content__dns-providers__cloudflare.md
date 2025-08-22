@@ -1,7 +1,7 @@
 # content/dns-providers/cloudflare.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/cloudflare.md
-> **Generated**: 2025-08-22 06:09:07
+> **Generated**: 2025-08-22 09:06:54
 
 ---
 
