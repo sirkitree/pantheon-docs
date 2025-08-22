@@ -1,7 +1,7 @@
 # content/guides/build-tools/07-merge.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/07-merge.md
-> **Generated**: 2025-08-22 18:08:15
+> **Generated**: 2025-08-22 21:05:34
 
 ---
 

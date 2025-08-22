@@ -1,7 +1,7 @@
 # content/partials/module-name.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/module-name.md
-> **Generated**: 2025-08-22 18:08:16
+> **Generated**: 2025-08-22 21:05:34
 
 ---
 
