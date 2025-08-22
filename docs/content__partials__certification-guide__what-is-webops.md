@@ -1,7 +1,7 @@
 # content/partials/certification-guide/what-is-webops.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/certification-guide/what-is-webops.md
-> **Generated**: 2025-08-22 00:26:43
+> **Generated**: 2025-08-22 03:23:05
 
 ---
 

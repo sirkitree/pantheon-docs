@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-gatsby-frontend-starters/05-robots-indexing.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-gatsby-frontend-starters/05-robots-indexing.md
-> **Generated**: 2025-08-22 00:26:43
+> **Generated**: 2025-08-22 03:23:05
 
 ---
 
