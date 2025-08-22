@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/01-introduction.md
-> **Generated**: 2025-08-22 09:06:55
+> **Generated**: 2025-08-22 12:10:27
 
 ---
 

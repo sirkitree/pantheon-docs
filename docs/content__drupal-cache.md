@@ -1,7 +1,7 @@
 # content/drupal-cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-cache.md
-> **Generated**: 2025-08-22 09:06:54
+> **Generated**: 2025-08-22 12:10:27
 
 ---
 
