@@ -1,7 +1,7 @@
 # content/terminus/08-directory.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/08-directory.md
-> **Generated**: 2025-08-23 15:05:33
+> **Generated**: 2025-08-23 18:07:01
 
 ---
 
