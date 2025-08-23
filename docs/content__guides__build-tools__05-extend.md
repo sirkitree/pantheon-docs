@@ -1,7 +1,7 @@
 # content/guides/build-tools/05-extend.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/05-extend.md
-> **Generated**: 2025-08-23 12:09:26
+> **Generated**: 2025-08-23 15:05:33
 
 ---
 
