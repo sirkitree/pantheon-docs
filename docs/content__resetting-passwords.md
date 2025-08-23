@@ -1,7 +1,7 @@
 # content/resetting-passwords.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/resetting-passwords.md
-> **Generated**: 2025-08-23 03:20:20
+> **Generated**: 2025-08-23 06:07:54
 
 ---
 
