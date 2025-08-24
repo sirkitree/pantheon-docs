@@ -1,7 +1,7 @@
 # content/guides/secrets/04-php.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secrets/04-php.md
-> **Generated**: 2025-08-24 00:29:48
+> **Generated**: 2025-08-24 03:29:18
 
 ---
 
