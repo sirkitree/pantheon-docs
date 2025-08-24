@@ -1,7 +1,7 @@
 # content/guides/fastly-pantheon/02-connect-fastly.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/fastly-pantheon/02-connect-fastly.md
-> **Generated**: 2025-08-24 03:29:18
+> **Generated**: 2025-08-24 06:08:22
 
 ---
 

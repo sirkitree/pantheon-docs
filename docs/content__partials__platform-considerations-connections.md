@@ -1,7 +1,7 @@
 # content/partials/platform-considerations-connections.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/platform-considerations-connections.md
-> **Generated**: 2025-08-24 03:29:18
+> **Generated**: 2025-08-24 06:08:22
 
 ---
 
