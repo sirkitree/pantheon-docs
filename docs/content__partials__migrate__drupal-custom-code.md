@@ -1,7 +1,7 @@
 # content/partials/migrate/drupal-custom-code.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/drupal-custom-code.md
-> **Generated**: 2025-08-25 06:10:06
+> **Generated**: 2025-08-25 09:08:04
 
 ---
 
