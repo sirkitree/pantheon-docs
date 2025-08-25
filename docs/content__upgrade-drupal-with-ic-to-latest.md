@@ -1,7 +1,7 @@
 # content/upgrade-drupal-with-ic-to-latest.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/upgrade-drupal-with-ic-to-latest.md
-> **Generated**: 2025-08-25 09:08:04
+> **Generated**: 2025-08-25 12:11:05
 
 ---
 
