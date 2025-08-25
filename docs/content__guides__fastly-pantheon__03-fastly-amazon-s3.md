@@ -1,7 +1,7 @@
 # content/guides/fastly-pantheon/03-fastly-amazon-s3.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/fastly-pantheon/03-fastly-amazon-s3.md
-> **Generated**: 2025-08-25 03:27:24
+> **Generated**: 2025-08-25 06:10:05
 
 ---
 
