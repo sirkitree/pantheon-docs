@@ -1,7 +1,7 @@
 # content/partials/jetpack-enable-xmlrpc.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/jetpack-enable-xmlrpc.md
-> **Generated**: 2025-08-25 18:08:41
+> **Generated**: 2025-08-25 21:05:45
 
 ---
 
