@@ -1,7 +1,7 @@
 # content/guides/domains/04-primary-domain.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/04-primary-domain.md
-> **Generated**: 2025-08-26 18:08:14
+> **Generated**: 2025-08-26 21:05:33
 
 ---
 
