@@ -1,7 +1,7 @@
 # content/drupal-commerce.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-commerce.md
-> **Generated**: 2025-08-26 15:06:47
+> **Generated**: 2025-08-26 18:08:14
 
 ---
 
