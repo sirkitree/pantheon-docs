@@ -1,7 +1,7 @@
 # content/guides/custom-upstream/05-delete-custom-upstream.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/custom-upstream/05-delete-custom-upstream.md
-> **Generated**: 2025-08-26 12:11:24
+> **Generated**: 2025-08-26 15:06:47
 
 ---
 
