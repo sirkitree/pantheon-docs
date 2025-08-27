@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-backend-starters/03-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-backend-starters/03-caching.md
-> **Generated**: 2025-08-27 12:10:28
+> **Generated**: 2025-08-27 15:07:21
 
 ---
 
