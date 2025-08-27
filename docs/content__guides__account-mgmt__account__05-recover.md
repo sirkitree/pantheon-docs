@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/account/05-recover.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/account/05-recover.md
-> **Generated**: 2025-08-27 15:07:21
+> **Generated**: 2025-08-27 18:08:33
 
 ---
 

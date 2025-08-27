@@ -1,7 +1,7 @@
 # content/guides/sso/04-shibboleth-sso.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sso/04-shibboleth-sso.md
-> **Generated**: 2025-08-27 15:07:21
+> **Generated**: 2025-08-27 18:08:33
 
 ---
 
