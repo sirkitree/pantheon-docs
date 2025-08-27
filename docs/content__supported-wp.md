@@ -1,7 +1,7 @@
 # content/supported-wp.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/supported-wp.md
-> **Generated**: 2025-08-27 00:26:39
+> **Generated**: 2025-08-27 03:20:53
 
 ---
 
