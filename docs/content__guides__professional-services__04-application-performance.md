@@ -1,7 +1,7 @@
 # content/guides/professional-services/04-application-performance.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/professional-services/04-application-performance.md
-> **Generated**: 2025-08-28 00:26:13
+> **Generated**: 2025-08-28 03:20:51
 
 ---
 
