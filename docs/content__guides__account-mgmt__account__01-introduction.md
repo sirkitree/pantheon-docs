@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/account/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/account/01-introduction.md
-> **Generated**: 2025-08-28 12:10:34
+> **Generated**: 2025-08-28 15:06:43
 
 ---
 
