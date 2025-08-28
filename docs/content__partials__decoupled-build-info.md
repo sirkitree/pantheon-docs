@@ -1,7 +1,7 @@
 # content/partials/decoupled-build-info.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-build-info.md
-> **Generated**: 2025-08-28 18:08:18
+> **Generated**: 2025-08-28 21:05:52
 
 ---
 
