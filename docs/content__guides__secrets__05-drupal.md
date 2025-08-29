@@ -1,7 +1,7 @@
 # content/guides/secrets/05-drupal.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secrets/05-drupal.md
-> **Generated**: 2025-08-29 12:10:26
+> **Generated**: 2025-08-29 15:05:25
 
 ---
 

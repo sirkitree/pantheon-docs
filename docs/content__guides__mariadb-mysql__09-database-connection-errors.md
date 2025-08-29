@@ -1,7 +1,7 @@
 # content/guides/mariadb-mysql/09-database-connection-errors.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/mariadb-mysql/09-database-connection-errors.md
-> **Generated**: 2025-08-29 12:10:26
+> **Generated**: 2025-08-29 15:05:25
 
 ---
 
