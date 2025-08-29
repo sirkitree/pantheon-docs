@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/workspace-sites-teams/03-workspaces.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/workspace-sites-teams/03-workspaces.md
-> **Generated**: 2025-08-29 15:05:25
+> **Generated**: 2025-08-29 18:08:01
 
 ---
 
