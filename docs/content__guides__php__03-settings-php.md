@@ -1,7 +1,7 @@
 # content/guides/php/03-settings-php.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/php/03-settings-php.md
-> **Generated**: 2025-08-28 21:05:52
+> **Generated**: 2025-08-29 00:26:43
 
 ---
 

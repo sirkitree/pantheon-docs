@@ -1,7 +1,7 @@
 # content/partials/remove-addons/wp-solr.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-addons/wp-solr.md
-> **Generated**: 2025-08-28 21:05:52
+> **Generated**: 2025-08-29 00:26:43
 
 ---
 

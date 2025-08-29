@@ -1,7 +1,7 @@
 # content/guides/domains/08-domain-hijacking.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/08-domain-hijacking.md
-> **Generated**: 2025-08-28 21:05:52
+> **Generated**: 2025-08-29 00:26:43
 
 ---
 
