@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-nextjs-frontend-starters/03-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-nextjs-frontend-starters/03-caching.md
-> **Generated**: 2025-08-29 18:08:01
+> **Generated**: 2025-08-29 21:05:50
 
 ---
 

@@ -1,7 +1,7 @@
 # content/php-runtime-generation-2.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/php-runtime-generation-2.md
-> **Generated**: 2025-08-29 18:08:01
+> **Generated**: 2025-08-29 21:05:50
 
 ---
 
@@ -111,9 +111,7 @@ Does your application require an OS package or PHP extension that is no longer a
 
 ## Known Issues
 
-- [Object Cache Pro installation via Terminus for standard WordPress configurations](/object-cache/wordpress#installation-and-configuration) is currently unavailable. 
-  - Workaround: [Downgrade to PHP Runtime Generation 1](/php-runtime-generation-2#q-can-i-switch-back-to-the-previous-php-runtime-if-i-encounter-issues), follow the installation procedure, then upgrade back to PHP Runtime Generation 2.
-
+- There are no known issues currently
 ## Reporting Issues
 
 If you encounter any issues while testing your site with PHP Runtime Generation 2:
