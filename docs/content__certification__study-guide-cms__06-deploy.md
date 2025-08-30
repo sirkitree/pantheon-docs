@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/06-deploy.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/06-deploy.md
-> **Generated**: 2025-08-30 03:15:38
+> **Generated**: 2025-08-30 06:07:38
 
 ---
 
