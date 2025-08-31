@@ -1,7 +1,7 @@
 # content/partials/dns-platform-domains.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/dns-platform-domains.md
-> **Generated**: 2025-08-31 09:06:03
+> **Generated**: 2025-08-31 12:09:47
 
 ---
 
