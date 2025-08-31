@@ -1,7 +1,7 @@
 # content/dns-providers/1-and-1.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/1-and-1.md
-> **Generated**: 2025-08-31 18:07:29
+> **Generated**: 2025-08-31 21:05:18
 
 ---
 
