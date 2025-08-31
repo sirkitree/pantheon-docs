@@ -1,7 +1,7 @@
 # content/guides/fastly-pantheon/08-fastly-syslog.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/fastly-pantheon/08-fastly-syslog.md
-> **Generated**: 2025-08-31 15:05:18
+> **Generated**: 2025-08-31 18:07:29
 
 ---
 

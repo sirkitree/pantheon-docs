@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-nextjs-frontend-starters/02-create.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-nextjs-frontend-starters/02-create.md
-> **Generated**: 2025-08-31 15:05:18
+> **Generated**: 2025-08-31 18:07:29
 
 ---
 
