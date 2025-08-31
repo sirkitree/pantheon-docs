@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createdashboard-set8/07-drupal-core-version.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createdashboard-set8/07-drupal-core-version.md
-> **Generated**: 2025-08-31 03:21:40
+> **Generated**: 2025-08-31 06:08:26
 
 ---
 
