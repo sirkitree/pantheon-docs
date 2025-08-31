@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/09-sendgrid-wordpress-wp-mail-smtp.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/09-sendgrid-wordpress-wp-mail-smtp.md
-> **Generated**: 2025-08-31 00:28:49
+> **Generated**: 2025-08-31 03:21:40
 
 ---
 

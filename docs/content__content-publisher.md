@@ -1,7 +1,7 @@
 # content/content-publisher.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/content-publisher.md
-> **Generated**: 2025-08-31 00:28:49
+> **Generated**: 2025-08-31 03:21:40
 
 ---
 
