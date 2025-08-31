@@ -1,7 +1,7 @@
 # content/partials/terminus/auth-login.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/terminus/auth-login.md
-> **Generated**: 2025-08-31 12:09:47
+> **Generated**: 2025-08-31 15:05:19
 
 ---
 
