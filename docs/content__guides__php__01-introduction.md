@@ -1,7 +1,7 @@
 # content/guides/php/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/php/01-introduction.md
-> **Generated**: 2025-08-30 21:05:21
+> **Generated**: 2025-08-31 00:28:49
 
 ---
 
