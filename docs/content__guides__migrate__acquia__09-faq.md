@@ -1,7 +1,7 @@
 # content/guides/migrate/acquia/09-faq.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/migrate/acquia/09-faq.md
-> **Generated**: 2025-08-31 21:05:18
+> **Generated**: 2025-09-01 00:32:34
 
 ---
 
