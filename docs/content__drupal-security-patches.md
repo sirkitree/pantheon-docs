@@ -1,7 +1,7 @@
 # content/drupal-security-patches.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-security-patches.md
-> **Generated**: 2025-09-01 06:10:21
+> **Generated**: 2025-09-01 09:08:08
 
 ---
 
