@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/06-wordpress-custom-code.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/06-wordpress-custom-code.md
-> **Generated**: 2025-09-01 18:08:02
+> **Generated**: 2025-09-01 21:05:36
 
 ---
 
