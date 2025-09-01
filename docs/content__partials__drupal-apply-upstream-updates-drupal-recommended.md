@@ -1,7 +1,7 @@
 # content/partials/drupal-apply-upstream-updates-drupal-recommended.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal-apply-upstream-updates-drupal-recommended.md
-> **Generated**: 2025-09-01 12:10:56
+> **Generated**: 2025-09-01 15:06:27
 
 ---
 
