@@ -1,7 +1,7 @@
 # content/guides/local-development/05-wordpress-phpstorm.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/05-wordpress-phpstorm.md
-> **Generated**: 2025-09-01 09:08:08
+> **Generated**: 2025-09-01 12:10:56
 
 ---
 

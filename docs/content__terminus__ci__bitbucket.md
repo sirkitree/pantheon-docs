@@ -1,7 +1,7 @@
 # content/terminus/ci/bitbucket.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/ci/bitbucket.md
-> **Generated**: 2025-09-01 09:08:08
+> **Generated**: 2025-09-01 12:10:56
 
 ---
 
