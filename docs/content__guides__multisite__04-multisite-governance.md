@@ -1,7 +1,7 @@
 # content/guides/multisite/04-multisite-governance.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/multisite/04-multisite-governance.md
-> **Generated**: 2025-09-02 15:06:45
+> **Generated**: 2025-09-02 18:07:19
 
 ---
 
