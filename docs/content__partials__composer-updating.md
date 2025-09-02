@@ -1,7 +1,7 @@
 # content/partials/composer-updating.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/composer-updating.md
-> **Generated**: 2025-09-02 03:22:28
+> **Generated**: 2025-09-02 06:09:25
 
 ---
 
