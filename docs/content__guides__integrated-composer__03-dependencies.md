@@ -1,7 +1,7 @@
 # content/guides/integrated-composer/03-dependencies.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/integrated-composer/03-dependencies.md
-> **Generated**: 2025-09-02 12:11:11
+> **Generated**: 2025-09-02 15:06:45
 
 ---
 
