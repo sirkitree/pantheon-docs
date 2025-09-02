@@ -1,7 +1,7 @@
 # content/guides/global-cdn/06-global-cdn-faq.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/06-global-cdn-faq.md
-> **Generated**: 2025-09-02 18:07:19
+> **Generated**: 2025-09-02 21:05:42
 
 ---
 

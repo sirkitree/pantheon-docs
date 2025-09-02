@@ -1,7 +1,7 @@
 # content/optimize-wp-options-table-autoloaded-data.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/optimize-wp-options-table-autoloaded-data.md
-> **Generated**: 2025-09-02 18:07:20
+> **Generated**: 2025-09-02 21:05:42
 
 ---
 

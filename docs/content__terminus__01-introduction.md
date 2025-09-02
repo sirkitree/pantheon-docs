@@ -1,7 +1,7 @@
 # content/terminus/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/01-introduction.md
-> **Generated**: 2025-09-02 18:07:20
+> **Generated**: 2025-09-02 21:05:42
 
 ---
 
