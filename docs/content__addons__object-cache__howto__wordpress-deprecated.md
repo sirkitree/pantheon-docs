@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/wordpress-deprecated.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/wordpress-deprecated.md
-> **Generated**: 2025-09-03 00:24:52
+> **Generated**: 2025-09-03 03:14:09
 
 ---
 
