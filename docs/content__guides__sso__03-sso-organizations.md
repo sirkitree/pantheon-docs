@@ -1,7 +1,7 @@
 # content/guides/sso/03-sso-organizations.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sso/03-sso-organizations.md
-> **Generated**: 2025-09-03 03:14:09
+> **Generated**: 2025-09-03 06:09:07
 
 ---
 
