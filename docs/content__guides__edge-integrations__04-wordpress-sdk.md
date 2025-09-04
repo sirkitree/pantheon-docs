@@ -1,7 +1,7 @@
 # content/guides/edge-integrations/04-wordpress-sdk.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/edge-integrations/04-wordpress-sdk.md
-> **Generated**: 2025-09-04 12:10:35
+> **Generated**: 2025-09-04 15:06:24
 
 ---
 
