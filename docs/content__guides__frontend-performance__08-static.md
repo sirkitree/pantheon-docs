@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/08-static.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/08-static.md
-> **Generated**: 2025-09-04 21:06:19
+> **Generated**: 2025-09-05 00:26:07
 
 ---
 
