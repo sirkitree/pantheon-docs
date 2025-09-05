@@ -1,7 +1,7 @@
 # content/switch-drupal-recommended-upstream.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/switch-drupal-recommended-upstream.md
-> **Generated**: 2025-09-05 06:09:17
+> **Generated**: 2025-09-05 09:07:03
 
 ---
 
