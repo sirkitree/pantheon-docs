@@ -1,7 +1,7 @@
 # content/terminus/10-supported-terminus.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/10-supported-terminus.md
-> **Generated**: 2025-09-06 15:05:29
+> **Generated**: 2025-09-06 18:07:05
 
 ---
 
