@@ -1,7 +1,7 @@
 # content/guides/multisite/07-debug.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/multisite/07-debug.md
-> **Generated**: 2025-09-06 21:05:29
+> **Generated**: 2025-09-07 00:28:22
 
 ---
 
