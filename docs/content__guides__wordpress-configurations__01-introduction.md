@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/01-introduction.md
-> **Generated**: 2025-09-08 00:27:44
+> **Generated**: 2025-09-08 03:22:39
 
 ---
 
