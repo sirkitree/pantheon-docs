@@ -1,7 +1,7 @@
 # content/guides/woocommerce/05-initialize-prod.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/woocommerce/05-initialize-prod.md
-> **Generated**: 2025-09-08 06:09:57
+> **Generated**: 2025-09-08 09:07:55
 
 ---
 
