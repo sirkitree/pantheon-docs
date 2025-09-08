@@ -1,7 +1,7 @@
 # content/partials/migrate/create-new-drupal-site.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/create-new-drupal-site.md
-> **Generated**: 2025-09-08 18:08:57
+> **Generated**: 2025-09-08 21:05:56
 
 ---
 

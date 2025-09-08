@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/billing/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/billing/01-introduction.md
-> **Generated**: 2025-09-08 18:08:57
+> **Generated**: 2025-09-08 21:05:56
 
 ---
 

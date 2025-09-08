@@ -1,7 +1,7 @@
 # content/partials/migrate/drupal-rebuildcache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/drupal-rebuildcache.md
-> **Generated**: 2025-09-08 18:08:57
+> **Generated**: 2025-09-08 21:05:56
 
 ---
 
