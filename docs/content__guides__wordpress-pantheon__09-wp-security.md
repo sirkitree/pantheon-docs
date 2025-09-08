@@ -1,7 +1,7 @@
 # content/guides/wordpress-pantheon/09-wp-security.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-pantheon/09-wp-security.md
-> **Generated**: 2025-09-08 15:05:57
+> **Generated**: 2025-09-08 18:08:57
 
 ---
 

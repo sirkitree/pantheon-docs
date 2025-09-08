@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-deprecated-upstream/09-new-updates.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-deprecated-upstream/09-new-updates.md
-> **Generated**: 2025-09-08 15:05:57
+> **Generated**: 2025-09-08 18:08:57
 
 ---
 

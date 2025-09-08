@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-nextjs-frontend-starters/06-robots-indexing.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-nextjs-frontend-starters/06-robots-indexing.md
-> **Generated**: 2025-09-08 15:05:57
+> **Generated**: 2025-09-08 18:08:57
 
 ---
 

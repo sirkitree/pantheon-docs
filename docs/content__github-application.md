@@ -1,7 +1,7 @@
 # content/github-application.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/github-application.md
-> **Generated**: 2025-09-08 15:05:57
+> **Generated**: 2025-09-08 18:08:57
 
 ---
 
@@ -89,7 +89,7 @@ If you need compilation of front-end assets in your WordPress or Drupal theme th
 
 The GitHub Application is currently in private Beta.
 
-We will address these limitaitons before the application is made generally available.
+We will address these limitations before the application is made generally available.
 
 ### Limited to new projects created by the Terminus
 
