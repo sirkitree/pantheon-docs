@@ -1,7 +1,7 @@
 # content/partials/plans.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/plans.md
-> **Generated**: 2025-09-08 12:11:22
+> **Generated**: 2025-09-08 15:05:57
 
 ---
 
