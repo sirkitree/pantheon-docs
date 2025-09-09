@@ -1,7 +1,7 @@
 # content/guides/php/06-php-errors.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/php/06-php-errors.md
-> **Generated**: 2025-09-09 03:19:28
+> **Generated**: 2025-09-09 06:09:21
 
 ---
 
