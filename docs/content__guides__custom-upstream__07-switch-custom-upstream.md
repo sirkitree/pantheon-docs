@@ -1,7 +1,7 @@
 # content/guides/custom-upstream/07-switch-custom-upstream.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/custom-upstream/07-switch-custom-upstream.md
-> **Generated**: 2025-09-08 21:05:56
+> **Generated**: 2025-09-09 00:26:24
 
 ---
 
