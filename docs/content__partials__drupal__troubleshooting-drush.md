@@ -1,7 +1,7 @@
 # content/partials/drupal/troubleshooting-drush.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/troubleshooting-drush.md
-> **Generated**: 2025-09-09 09:07:22
+> **Generated**: 2025-09-09 12:11:12
 
 ---
 
