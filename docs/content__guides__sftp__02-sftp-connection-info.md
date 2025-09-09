@@ -1,7 +1,7 @@
 # content/guides/sftp/02-sftp-connection-info.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sftp/02-sftp-connection-info.md
-> **Generated**: 2025-09-09 15:06:56
+> **Generated**: 2025-09-09 18:07:58
 
 ---
 
