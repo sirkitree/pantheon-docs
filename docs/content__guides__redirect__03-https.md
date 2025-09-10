@@ -1,7 +1,7 @@
 # content/guides/redirect/03-https.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/redirect/03-https.md
-> **Generated**: 2025-09-10 15:06:48
+> **Generated**: 2025-09-10 18:08:51
 
 ---
 
