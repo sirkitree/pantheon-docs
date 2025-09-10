@@ -1,7 +1,7 @@
 # content/site-dashboard.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/site-dashboard.md
-> **Generated**: 2025-09-09 21:05:39
+> **Generated**: 2025-09-10 00:25:09
 
 ---
 
