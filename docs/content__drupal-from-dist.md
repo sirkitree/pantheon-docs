@@ -1,7 +1,7 @@
 # content/drupal-from-dist.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-from-dist.md
-> **Generated**: 2025-09-11 15:06:45
+> **Generated**: 2025-09-11 18:07:26
 
 ---
 
