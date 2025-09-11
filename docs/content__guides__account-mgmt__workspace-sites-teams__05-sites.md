@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/workspace-sites-teams/05-sites.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/workspace-sites-teams/05-sites.md
-> **Generated**: 2025-09-11 06:09:51
+> **Generated**: 2025-09-11 09:07:24
 
 ---
 
