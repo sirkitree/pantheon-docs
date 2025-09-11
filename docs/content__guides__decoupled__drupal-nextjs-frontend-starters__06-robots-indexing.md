@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-nextjs-frontend-starters/06-robots-indexing.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-nextjs-frontend-starters/06-robots-indexing.md
-> **Generated**: 2025-09-11 18:07:26
+> **Generated**: 2025-09-11 21:06:01
 
 ---
 

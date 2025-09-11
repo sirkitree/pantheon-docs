@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/12-performant-translations.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/12-performant-translations.md
-> **Generated**: 2025-09-11 18:07:26
+> **Generated**: 2025-09-11 21:06:01
 
 ---
 

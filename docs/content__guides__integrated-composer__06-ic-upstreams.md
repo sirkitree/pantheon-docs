@@ -1,7 +1,7 @@
 # content/guides/integrated-composer/06-ic-upstreams.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/integrated-composer/06-ic-upstreams.md
-> **Generated**: 2025-09-11 18:07:26
+> **Generated**: 2025-09-11 21:06:01
 
 ---
 
