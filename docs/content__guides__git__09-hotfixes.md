@@ -1,7 +1,7 @@
 # content/guides/git/09-hotfixes.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/git/09-hotfixes.md
-> **Generated**: 2025-09-12 12:10:20
+> **Generated**: 2025-09-12 15:06:39
 
 ---
 
