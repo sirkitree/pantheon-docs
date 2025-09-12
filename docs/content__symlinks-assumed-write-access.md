@@ -1,7 +1,7 @@
 # content/symlinks-assumed-write-access.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/symlinks-assumed-write-access.md
-> **Generated**: 2025-09-12 18:08:10
+> **Generated**: 2025-09-12 21:05:44
 
 ---
 
