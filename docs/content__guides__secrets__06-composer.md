@@ -1,7 +1,7 @@
 # content/guides/secrets/06-composer.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secrets/06-composer.md
-> **Generated**: 2025-09-12 00:25:23
+> **Generated**: 2025-09-12 03:14:04
 
 ---
 
