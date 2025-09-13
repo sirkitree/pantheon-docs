@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-md/09-core-updates.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-md/09-core-updates.md
-> **Generated**: 2025-09-13 00:23:42
+> **Generated**: 2025-09-13 03:09:41
 
 ---
 
