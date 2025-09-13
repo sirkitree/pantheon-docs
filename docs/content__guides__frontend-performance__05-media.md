@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/05-media.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/05-media.md
-> **Generated**: 2025-09-13 15:05:41
+> **Generated**: 2025-09-13 18:06:58
 
 ---
 
