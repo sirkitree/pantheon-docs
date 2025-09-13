@@ -1,7 +1,7 @@
 # content/partials/configure-dns.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/configure-dns.md
-> **Generated**: 2025-09-13 09:06:11
+> **Generated**: 2025-09-13 12:09:32
 
 ---
 

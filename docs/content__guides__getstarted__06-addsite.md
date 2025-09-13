@@ -1,7 +1,7 @@
 # content/guides/getstarted/06-addsite.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/getstarted/06-addsite.md
-> **Generated**: 2025-09-13 09:06:10
+> **Generated**: 2025-09-13 12:09:32
 
 ---
 
