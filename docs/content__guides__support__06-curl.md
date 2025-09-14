@@ -1,7 +1,7 @@
 # content/guides/support/06-curl.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/support/06-curl.md
-> **Generated**: 2025-09-14 18:07:13
+> **Generated**: 2025-09-14 21:05:42
 
 ---
 
