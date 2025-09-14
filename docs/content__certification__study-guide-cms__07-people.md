@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/07-people.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/07-people.md
-> **Generated**: 2025-09-13 21:05:40
+> **Generated**: 2025-09-14 00:27:44
 
 ---
 
