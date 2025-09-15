@@ -1,7 +1,7 @@
 # content/partials/certification-guide/pressure-on-developers.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/certification-guide/pressure-on-developers.md
-> **Generated**: 2025-09-15 00:28:12
+> **Generated**: 2025-09-15 03:23:17
 
 ---
 
