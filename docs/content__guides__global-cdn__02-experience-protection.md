@@ -1,7 +1,7 @@
 # content/guides/global-cdn/02-experience-protection.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/02-experience-protection.md
-> **Generated**: 2025-09-15 21:05:39
+> **Generated**: 2025-09-16 00:25:24
 
 ---
 
