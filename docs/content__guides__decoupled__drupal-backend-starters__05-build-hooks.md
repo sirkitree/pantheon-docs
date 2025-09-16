@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-backend-starters/05-build-hooks.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-backend-starters/05-build-hooks.md
-> **Generated**: 2025-09-16 06:09:38
+> **Generated**: 2025-09-16 09:07:14
 
 ---
 
