@@ -1,7 +1,7 @@
 # content/partials/global-cdn-test-cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/global-cdn-test-cache.md
-> **Generated**: 2025-09-16 12:10:46
+> **Generated**: 2025-09-16 15:07:19
 
 ---
 
