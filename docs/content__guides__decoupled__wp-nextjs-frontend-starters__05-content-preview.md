@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-nextjs-frontend-starters/05-content-preview.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-nextjs-frontend-starters/05-content-preview.md
-> **Generated**: 2025-09-16 18:09:04
+> **Generated**: 2025-09-16 21:05:34
 
 ---
 

@@ -1,7 +1,7 @@
 # content/guides/redirect/07-php.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/redirect/07-php.md
-> **Generated**: 2025-09-16 18:09:04
+> **Generated**: 2025-09-16 21:05:34
 
 ---
 
