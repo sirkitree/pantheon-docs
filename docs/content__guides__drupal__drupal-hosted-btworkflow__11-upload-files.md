@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-btworkflow/11-upload-files.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-btworkflow/11-upload-files.md
-> **Generated**: 2025-09-16 00:25:23
+> **Generated**: 2025-09-16 03:15:53
 
 ---
 
