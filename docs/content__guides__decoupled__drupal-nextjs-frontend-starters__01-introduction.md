@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-nextjs-frontend-starters/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-nextjs-frontend-starters/01-introduction.md
-> **Generated**: 2025-09-17 12:10:35
+> **Generated**: 2025-09-17 15:07:26
 
 ---
 
