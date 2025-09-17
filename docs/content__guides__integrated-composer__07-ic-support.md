@@ -1,7 +1,7 @@
 # content/guides/integrated-composer/07-ic-support.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/integrated-composer/07-ic-support.md
-> **Generated**: 2025-09-17 06:09:53
+> **Generated**: 2025-09-17 09:07:03
 
 ---
 

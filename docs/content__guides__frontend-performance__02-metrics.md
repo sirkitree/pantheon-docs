@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/02-metrics.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/02-metrics.md
-> **Generated**: 2025-09-17 06:09:53
+> **Generated**: 2025-09-17 09:07:03
 
 ---
 

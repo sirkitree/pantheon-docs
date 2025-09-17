@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/04-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/04-caching.md
-> **Generated**: 2025-09-17 06:09:53
+> **Generated**: 2025-09-17 09:07:03
 
 ---
 
