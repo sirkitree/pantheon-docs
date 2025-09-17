@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/01-webops.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/01-webops.md
-> **Generated**: 2025-09-17 00:25:47
+> **Generated**: 2025-09-17 03:14:42
 
 ---
 

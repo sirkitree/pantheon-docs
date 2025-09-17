@@ -1,7 +1,7 @@
 # content/partials/terminus/self-update.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/terminus/self-update.md
-> **Generated**: 2025-09-17 00:25:48
+> **Generated**: 2025-09-17 03:14:42
 
 ---
 
