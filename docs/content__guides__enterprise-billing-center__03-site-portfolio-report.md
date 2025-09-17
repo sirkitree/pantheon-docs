@@ -1,7 +1,7 @@
 # content/guides/enterprise-billing-center/03-site-portfolio-report.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/enterprise-billing-center/03-site-portfolio-report.md
-> **Generated**: 2025-09-17 15:07:26
+> **Generated**: 2025-09-17 18:08:32
 
 ---
 
