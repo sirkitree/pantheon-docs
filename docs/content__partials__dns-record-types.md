@@ -1,7 +1,7 @@
 # content/partials/dns-record-types.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/dns-record-types.md
-> **Generated**: 2025-09-17 18:08:32
+> **Generated**: 2025-09-17 21:05:35
 
 ---
 
