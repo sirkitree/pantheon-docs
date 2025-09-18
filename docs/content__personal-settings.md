@@ -1,7 +1,7 @@
 # content/personal-settings.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/personal-settings.md
-> **Generated**: 2025-09-18 12:10:15
+> **Generated**: 2025-09-18 15:06:59
 
 ---
 
