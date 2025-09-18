@@ -1,7 +1,7 @@
 # content/guides/redirect/05-primary-domain.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/redirect/05-primary-domain.md
-> **Generated**: 2025-09-18 09:07:03
+> **Generated**: 2025-09-18 12:10:15
 
 ---
 

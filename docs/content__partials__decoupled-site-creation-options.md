@@ -1,7 +1,7 @@
 # content/partials/decoupled-site-creation-options.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-site-creation-options.md
-> **Generated**: 2025-09-18 09:07:03
+> **Generated**: 2025-09-18 12:10:15
 
 ---
 
