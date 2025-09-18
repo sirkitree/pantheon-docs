@@ -1,7 +1,7 @@
 # content/guides/local-development/02-configuration.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/02-configuration.md
-> **Generated**: 2025-09-17 21:05:34
+> **Generated**: 2025-09-18 00:24:58
 
 ---
 
