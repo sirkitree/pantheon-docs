@@ -1,7 +1,7 @@
 # content/guides/getstarted/08-launch.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/getstarted/08-launch.md
-> **Generated**: 2025-09-18 15:06:59
+> **Generated**: 2025-09-18 18:09:04
 
 ---
 
