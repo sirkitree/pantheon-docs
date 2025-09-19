@@ -1,7 +1,7 @@
 # content/guides/secure-development/08-phpinfo.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secure-development/08-phpinfo.md
-> **Generated**: 2025-09-19 03:19:27
+> **Generated**: 2025-09-19 06:09:39
 
 ---
 
