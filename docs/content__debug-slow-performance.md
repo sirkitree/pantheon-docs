@@ -1,7 +1,7 @@
 # content/debug-slow-performance.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/debug-slow-performance.md
-> **Generated**: 2025-09-19 12:10:32
+> **Generated**: 2025-09-19 15:06:37
 
 ---
 
