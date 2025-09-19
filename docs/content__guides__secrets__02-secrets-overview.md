@@ -1,7 +1,7 @@
 # content/guides/secrets/02-secrets-overview.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secrets/02-secrets-overview.md
-> **Generated**: 2025-09-19 15:06:38
+> **Generated**: 2025-09-19 18:09:23
 
 ---
 

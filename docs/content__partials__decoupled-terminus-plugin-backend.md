@@ -1,7 +1,7 @@
 # content/partials/decoupled-terminus-plugin-backend.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-terminus-plugin-backend.md
-> **Generated**: 2025-09-19 15:06:38
+> **Generated**: 2025-09-19 18:09:23
 
 ---
 
