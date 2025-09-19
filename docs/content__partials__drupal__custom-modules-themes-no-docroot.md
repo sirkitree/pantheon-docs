@@ -1,7 +1,7 @@
 # content/partials/drupal/custom-modules-themes-no-docroot.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/custom-modules-themes-no-docroot.md
-> **Generated**: 2025-09-19 18:09:23
+> **Generated**: 2025-09-19 21:05:58
 
 ---
 
