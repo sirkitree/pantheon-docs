@@ -1,7 +1,7 @@
 # content/partials/drupal/drupal-mariadb-considerations.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/drupal-mariadb-considerations.md
-> **Generated**: 2025-09-20 15:05:40
+> **Generated**: 2025-09-20 18:07:35
 
 ---
 

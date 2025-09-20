@@ -1,7 +1,7 @@
 # content/guides/build-tools/06-tests.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/06-tests.md
-> **Generated**: 2025-09-20 15:05:40
+> **Generated**: 2025-09-20 18:07:34
 
 ---
 
