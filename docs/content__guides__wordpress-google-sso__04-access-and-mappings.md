@@ -1,7 +1,7 @@
 # content/guides/wordpress-google-sso/04-access-and-mappings.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-google-sso/04-access-and-mappings.md
-> **Generated**: 2025-09-20 03:14:53
+> **Generated**: 2025-09-20 06:08:22
 
 ---
 

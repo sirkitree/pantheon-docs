@@ -1,7 +1,7 @@
 # content/guides/new-relic/03-monitor-new-relic.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/new-relic/03-monitor-new-relic.md
-> **Generated**: 2025-09-20 03:14:53
+> **Generated**: 2025-09-20 06:08:22
 
 ---
 
