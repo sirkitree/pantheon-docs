@@ -1,7 +1,7 @@
 # content/partials/terminus/site-upstream-set.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/terminus/site-upstream-set.md
-> **Generated**: 2025-09-20 06:08:22
+> **Generated**: 2025-09-20 09:06:22
 
 ---
 
