@@ -1,7 +1,7 @@
 # content/terminus/04-commands.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/04-commands.md
-> **Generated**: 2025-09-21 18:08:07
+> **Generated**: 2025-09-21 21:05:26
 
 ---
 
