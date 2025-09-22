@@ -1,7 +1,7 @@
 # content/dns-providers/namecheap.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/namecheap.md
-> **Generated**: 2025-09-22 03:22:44
+> **Generated**: 2025-09-22 06:10:08
 
 ---
 

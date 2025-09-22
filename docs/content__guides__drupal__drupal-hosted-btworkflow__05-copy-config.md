@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-btworkflow/05-copy-config.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-btworkflow/05-copy-config.md
-> **Generated**: 2025-09-22 03:22:44
+> **Generated**: 2025-09-22 06:10:08
 
 ---
 
