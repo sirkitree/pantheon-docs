@@ -1,7 +1,7 @@
 # content/partials/drupal/migrate-add-files-part1.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/migrate-add-files-part1.md
-> **Generated**: 2025-09-22 18:08:49
+> **Generated**: 2025-09-22 21:05:46
 
 ---
 
