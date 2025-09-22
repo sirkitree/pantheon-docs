@@ -1,7 +1,7 @@
 # content/cloud-optimization.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/cloud-optimization.md
-> **Generated**: 2025-09-22 00:28:31
+> **Generated**: 2025-09-22 03:22:44
 
 ---
 
