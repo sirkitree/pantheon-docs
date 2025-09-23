@@ -1,7 +1,7 @@
 # content/dns-providers/microsoft.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/microsoft.md
-> **Generated**: 2025-09-23 00:25:57
+> **Generated**: 2025-09-23 03:16:53
 
 ---
 
