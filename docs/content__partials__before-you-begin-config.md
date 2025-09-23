@@ -1,7 +1,7 @@
 # content/partials/before-you-begin-config.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/before-you-begin-config.md
-> **Generated**: 2025-09-22 21:05:46
+> **Generated**: 2025-09-23 00:25:57
 
 ---
 
