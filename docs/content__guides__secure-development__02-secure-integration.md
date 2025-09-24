@@ -1,7 +1,7 @@
 # content/guides/secure-development/02-secure-integration.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secure-development/02-secure-integration.md
-> **Generated**: 2025-09-24 00:25:59
+> **Generated**: 2025-09-24 03:17:54
 
 ---
 
