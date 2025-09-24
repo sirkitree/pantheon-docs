@@ -1,7 +1,7 @@
 # content/guides/wordpress-google-sso/02-install.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-google-sso/02-install.md
-> **Generated**: 2025-09-24 06:09:52
+> **Generated**: 2025-09-24 09:07:11
 
 ---
 
