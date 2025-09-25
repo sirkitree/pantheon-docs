@@ -1,7 +1,7 @@
 # content/debug-cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/debug-cache.md
-> **Generated**: 2025-09-25 06:09:43
+> **Generated**: 2025-09-25 09:07:05
 
 ---
 
