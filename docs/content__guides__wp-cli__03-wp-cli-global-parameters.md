@@ -1,7 +1,7 @@
 # content/guides/wp-cli/03-wp-cli-global-parameters.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wp-cli/03-wp-cli-global-parameters.md
-> **Generated**: 2025-09-26 09:07:03
+> **Generated**: 2025-09-26 12:10:47
 
 ---
 
