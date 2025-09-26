@@ -1,7 +1,7 @@
 # content/guides/local-development/07-visual-studio-code.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/07-visual-studio-code.md
-> **Generated**: 2025-09-26 12:10:47
+> **Generated**: 2025-09-26 15:07:03
 
 ---
 
