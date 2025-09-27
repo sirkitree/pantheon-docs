@@ -1,7 +1,7 @@
 # content/guides/getstarted/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/getstarted/01-introduction.md
-> **Generated**: 2025-09-27 18:07:49
+> **Generated**: 2025-09-27 21:05:45
 
 ---
 
