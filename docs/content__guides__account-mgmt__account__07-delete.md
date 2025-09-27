@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/account/07-delete.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/account/07-delete.md
-> **Generated**: 2025-09-27 12:09:37
+> **Generated**: 2025-09-27 15:06:04
 
 ---
 
