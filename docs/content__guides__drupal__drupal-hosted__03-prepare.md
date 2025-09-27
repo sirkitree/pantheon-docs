@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted/03-prepare.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted/03-prepare.md
-> **Generated**: 2025-09-27 09:06:20
+> **Generated**: 2025-09-27 12:09:37
 
 ---
 

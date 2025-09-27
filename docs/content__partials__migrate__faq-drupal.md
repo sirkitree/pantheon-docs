@@ -1,7 +1,7 @@
 # content/partials/migrate/faq-drupal.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/faq-drupal.md
-> **Generated**: 2025-09-27 09:06:21
+> **Generated**: 2025-09-27 12:09:37
 
 ---
 
