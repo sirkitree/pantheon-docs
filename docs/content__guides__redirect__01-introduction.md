@@ -1,7 +1,7 @@
 # content/guides/redirect/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/redirect/01-introduction.md
-> **Generated**: 2025-09-28 18:07:46
+> **Generated**: 2025-09-28 21:05:31
 
 ---
 
