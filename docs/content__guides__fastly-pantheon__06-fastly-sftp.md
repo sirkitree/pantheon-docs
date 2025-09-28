@@ -1,7 +1,7 @@
 # content/guides/fastly-pantheon/06-fastly-sftp.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/fastly-pantheon/06-fastly-sftp.md
-> **Generated**: 2025-09-28 06:08:13
+> **Generated**: 2025-09-28 09:06:16
 
 ---
 
