@@ -1,7 +1,7 @@
 # content/guides/wordpress-git/06-next-steps.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-git/06-next-steps.md
-> **Generated**: 2025-09-28 15:05:59
+> **Generated**: 2025-09-28 18:07:46
 
 ---
 
