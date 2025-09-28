@@ -1,7 +1,7 @@
 # content/guides/new-relic/05-debug-mysql-new-relic.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/new-relic/05-debug-mysql-new-relic.md
-> **Generated**: 2025-09-28 03:23:13
+> **Generated**: 2025-09-28 06:08:13
 
 ---
 
