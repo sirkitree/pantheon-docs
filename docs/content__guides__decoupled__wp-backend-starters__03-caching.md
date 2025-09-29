@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-backend-starters/03-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-backend-starters/03-caching.md
-> **Generated**: 2025-09-29 12:11:33
+> **Generated**: 2025-09-29 15:06:53
 
 ---
 
