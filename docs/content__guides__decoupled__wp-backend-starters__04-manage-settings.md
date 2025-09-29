@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-backend-starters/04-manage-settings.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-backend-starters/04-manage-settings.md
-> **Generated**: 2025-09-29 15:06:53
+> **Generated**: 2025-09-29 18:09:12
 
 ---
 

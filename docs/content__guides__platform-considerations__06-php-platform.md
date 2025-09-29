@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/06-php-platform.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/06-php-platform.md
-> **Generated**: 2025-09-29 15:06:53
+> **Generated**: 2025-09-29 18:09:12
 
 ---
 
