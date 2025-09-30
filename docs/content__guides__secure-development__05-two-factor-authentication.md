@@ -1,7 +1,7 @@
 # content/guides/secure-development/05-two-factor-authentication.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secure-development/05-two-factor-authentication.md
-> **Generated**: 2025-09-30 03:17:45
+> **Generated**: 2025-09-30 06:09:55
 
 ---
 
