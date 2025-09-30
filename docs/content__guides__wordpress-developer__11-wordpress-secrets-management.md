@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/11-wordpress-secrets-management.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/11-wordpress-secrets-management.md
-> **Generated**: 2025-09-30 18:09:09
+> **Generated**: 2025-09-30 21:06:15
 
 ---
 

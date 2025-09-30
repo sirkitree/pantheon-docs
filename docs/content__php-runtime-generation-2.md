@@ -1,7 +1,7 @@
 # content/php-runtime-generation-2.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/php-runtime-generation-2.md
-> **Generated**: 2025-09-30 18:09:09
+> **Generated**: 2025-09-30 21:06:15
 
 ---
 
@@ -101,7 +101,7 @@ Does your application require an OS package or PHP extension that is no longer a
 ## Known Issues
 
 - New Relic is not available for sites running PHP 5.6. Compatibility will be added soon.
-- Drupal 8+ sites using Solr 3 should not upgrade to PHP Runtime Generation 2. [Upgrading to Solr 8](https://docs.pantheon.io/release-notes/2025/08/solr-3-drupal-94-eol) or disabling Solr is required.
+- Drupal 8+ sites using Solr 3 are not compatible with PHP Runtime Generation 2.  [Upgrading to Solr 8](https://docs.pantheon.io/release-notes/2025/08/solr-3-drupal-94-eol) or disabling Solr is required. These sites will not be included in the initial automatic upgrade rollout, but will be upgraded after November 12, 2025.
 
 ## Reporting Issues
 
