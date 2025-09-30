@@ -1,7 +1,7 @@
 # content/guides/launch/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/01-introduction.md
-> **Generated**: 2025-09-30 09:07:08
+> **Generated**: 2025-09-30 12:11:04
 
 ---
 
