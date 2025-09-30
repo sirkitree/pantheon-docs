@@ -1,7 +1,7 @@
 # content/drupal-cron.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-cron.md
-> **Generated**: 2025-09-29 21:05:50
+> **Generated**: 2025-09-30 00:26:22
 
 ---
 
