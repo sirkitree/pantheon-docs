@@ -1,7 +1,7 @@
 # content/cache-control.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/cache-control.md
-> **Generated**: 2025-10-01 00:29:48
+> **Generated**: 2025-10-01 03:25:41
 
 ---
 

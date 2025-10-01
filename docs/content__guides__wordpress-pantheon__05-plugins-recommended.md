@@ -1,7 +1,7 @@
 # content/guides/wordpress-pantheon/05-plugins-recommended.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-pantheon/05-plugins-recommended.md
-> **Generated**: 2025-10-01 00:29:48
+> **Generated**: 2025-10-01 03:25:42
 
 ---
 
