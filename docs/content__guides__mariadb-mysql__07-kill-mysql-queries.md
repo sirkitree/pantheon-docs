@@ -1,7 +1,7 @@
 # content/guides/mariadb-mysql/07-kill-mysql-queries.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/mariadb-mysql/07-kill-mysql-queries.md
-> **Generated**: 2025-10-01 12:11:19
+> **Generated**: 2025-10-01 15:07:05
 
 ---
 
