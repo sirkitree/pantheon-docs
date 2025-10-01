@@ -1,7 +1,7 @@
 # content/partials/drush-compatibility.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drush-compatibility.md
-> **Generated**: 2025-10-01 06:09:33
+> **Generated**: 2025-10-01 09:07:40
 
 ---
 
