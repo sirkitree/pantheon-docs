@@ -1,7 +1,7 @@
 # content/guides/local-development/03-lando-wordpress.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/03-lando-wordpress.md
-> **Generated**: 2025-10-01 09:07:40
+> **Generated**: 2025-10-01 12:11:19
 
 ---
 
