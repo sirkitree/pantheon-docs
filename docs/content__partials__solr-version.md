@@ -1,7 +1,7 @@
 # content/partials/solr-version.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/solr-version.md
-> **Generated**: 2025-10-02 15:06:56
+> **Generated**: 2025-10-02 18:08:32
 
 ---
 

@@ -1,7 +1,7 @@
 # content/guides/filesystem/04-files-directories.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/filesystem/04-files-directories.md
-> **Generated**: 2025-10-02 15:06:56
+> **Generated**: 2025-10-02 18:08:32
 
 ---
 
