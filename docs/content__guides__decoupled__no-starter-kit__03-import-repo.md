@@ -1,7 +1,7 @@
 # content/guides/decoupled/no-starter-kit/03-import-repo.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/no-starter-kit/03-import-repo.md
-> **Generated**: 2025-10-02 00:25:25
+> **Generated**: 2025-10-02 03:16:04
 
 ---
 

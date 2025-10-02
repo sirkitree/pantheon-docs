@@ -1,7 +1,7 @@
 # content/partials/transfer-ownership-billing-intro.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/transfer-ownership-billing-intro.md
-> **Generated**: 2025-10-02 00:25:25
+> **Generated**: 2025-10-02 03:16:04
 
 ---
 
