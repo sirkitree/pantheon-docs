@@ -1,7 +1,7 @@
 # content/dns-providers/easy-dns.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/easy-dns.md
-> **Generated**: 2025-10-02 06:09:15
+> **Generated**: 2025-10-02 09:06:44
 
 ---
 
