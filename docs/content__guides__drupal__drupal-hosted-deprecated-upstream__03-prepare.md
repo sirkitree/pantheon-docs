@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-deprecated-upstream/03-prepare.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-deprecated-upstream/03-prepare.md
-> **Generated**: 2025-10-02 12:10:18
+> **Generated**: 2025-10-02 15:06:56
 
 ---
 
