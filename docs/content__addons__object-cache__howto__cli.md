@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/cli.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/cli.md
-> **Generated**: 2025-10-03 03:15:32
+> **Generated**: 2025-10-03 06:08:56
 
 ---
 
