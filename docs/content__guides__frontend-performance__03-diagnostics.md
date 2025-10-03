@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/03-diagnostics.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/03-diagnostics.md
-> **Generated**: 2025-10-03 06:08:57
+> **Generated**: 2025-10-03 09:06:30
 
 ---
 
