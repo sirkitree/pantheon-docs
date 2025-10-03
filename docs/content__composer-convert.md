@@ -1,7 +1,7 @@
 # content/composer-convert.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/composer-convert.md
-> **Generated**: 2025-10-02 21:06:09
+> **Generated**: 2025-10-03 00:25:17
 
 ---
 

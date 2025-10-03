@@ -1,7 +1,7 @@
 # content/guides/edge-integrations/05-analytics.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/edge-integrations/05-analytics.md
-> **Generated**: 2025-10-02 21:06:09
+> **Generated**: 2025-10-03 00:25:17
 
 ---
 
