@@ -1,7 +1,7 @@
 # content/guides/wp-cli/04-install-wp-plugins-themes.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wp-cli/04-install-wp-plugins-themes.md
-> **Generated**: 2025-10-04 00:24:17
+> **Generated**: 2025-10-04 03:12:01
 
 ---
 
