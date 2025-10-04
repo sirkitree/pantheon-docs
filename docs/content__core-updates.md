@@ -1,7 +1,7 @@
 # content/core-updates.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/core-updates.md
-> **Generated**: 2025-10-04 09:06:09
+> **Generated**: 2025-10-04 12:09:25
 
 ---
 
