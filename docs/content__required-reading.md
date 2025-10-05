@@ -1,7 +1,7 @@
 # content/required-reading.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/required-reading.md
-> **Generated**: 2025-10-04 21:05:44
+> **Generated**: 2025-10-05 00:28:54
 
 ---
 
