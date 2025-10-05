@@ -1,7 +1,7 @@
 # content/guides/domains/06-vanity-domains.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/06-vanity-domains.md
-> **Generated**: 2025-10-05 06:08:05
+> **Generated**: 2025-10-05 09:06:02
 
 ---
 
