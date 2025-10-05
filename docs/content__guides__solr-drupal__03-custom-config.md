@@ -1,7 +1,7 @@
 # content/guides/solr-drupal/03-custom-config.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/solr-drupal/03-custom-config.md
-> **Generated**: 2025-10-05 09:06:02
+> **Generated**: 2025-10-05 12:09:30
 
 ---
 
