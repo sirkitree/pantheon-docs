@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/01-introduction.md
-> **Generated**: 2025-10-05 12:09:30
+> **Generated**: 2025-10-05 15:05:55
 
 ---
 

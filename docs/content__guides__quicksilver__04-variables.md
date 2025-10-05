@@ -1,7 +1,7 @@
 # content/guides/quicksilver/04-variables.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/quicksilver/04-variables.md
-> **Generated**: 2025-10-05 12:09:30
+> **Generated**: 2025-10-05 15:05:55
 
 ---
 
