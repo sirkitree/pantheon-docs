@@ -1,7 +1,7 @@
 # content/guides/local-development/06-drupal-phpstorm.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/06-drupal-phpstorm.md
-> **Generated**: 2025-10-06 06:09:47
+> **Generated**: 2025-10-06 09:08:17
 
 ---
 
