@@ -1,7 +1,7 @@
 # content/partials/terminus/site-create.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/terminus/site-create.md
-> **Generated**: 2025-10-06 15:07:01
+> **Generated**: 2025-10-06 18:08:55
 
 ---
 
