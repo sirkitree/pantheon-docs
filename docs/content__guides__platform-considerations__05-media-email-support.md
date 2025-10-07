@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/05-media-email-support.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/05-media-email-support.md
-> **Generated**: 2025-10-07 03:16:52
+> **Generated**: 2025-10-07 06:09:21
 
 ---
 
