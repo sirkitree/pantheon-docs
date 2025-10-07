@@ -1,7 +1,7 @@
 # content/guides/agcdn/04-submit-request.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/agcdn/04-submit-request.md
-> **Generated**: 2025-10-06 21:06:10
+> **Generated**: 2025-10-07 00:25:54
 
 ---
 

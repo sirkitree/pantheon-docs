@@ -1,7 +1,7 @@
 # content/guides/multisite/03-config.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/multisite/03-config.md
-> **Generated**: 2025-10-06 21:06:10
+> **Generated**: 2025-10-07 00:25:54
 
 ---
 
