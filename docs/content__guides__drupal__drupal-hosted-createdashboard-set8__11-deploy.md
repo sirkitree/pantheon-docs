@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createdashboard-set8/11-deploy.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createdashboard-set8/11-deploy.md
-> **Generated**: 2025-10-07 00:25:54
+> **Generated**: 2025-10-07 03:16:52
 
 ---
 
