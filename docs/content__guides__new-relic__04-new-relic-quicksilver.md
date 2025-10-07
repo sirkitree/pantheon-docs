@@ -1,7 +1,7 @@
 # content/guides/new-relic/04-new-relic-quicksilver.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/new-relic/04-new-relic-quicksilver.md
-> **Generated**: 2025-10-07 06:09:21
+> **Generated**: 2025-10-07 09:07:15
 
 ---
 
