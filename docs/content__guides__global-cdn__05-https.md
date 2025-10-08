@@ -1,7 +1,7 @@
 # content/guides/global-cdn/05-https.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/05-https.md
-> **Generated**: 2025-10-08 18:09:07
+> **Generated**: 2025-10-08 21:06:13
 
 ---
 

@@ -1,7 +1,7 @@
 # content/guides/filesystem/02-batch-files.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/filesystem/02-batch-files.md
-> **Generated**: 2025-10-08 18:09:07
+> **Generated**: 2025-10-08 21:06:13
 
 ---
 
