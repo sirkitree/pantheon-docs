@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/02-wordpress-best-practices.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/02-wordpress-best-practices.md
-> **Generated**: 2025-10-08 06:09:40
+> **Generated**: 2025-10-08 09:07:06
 
 ---
 
