@@ -1,7 +1,7 @@
 # content/terminus/10-supported-terminus.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/10-supported-terminus.md
-> **Generated**: 2025-10-07 21:06:08
+> **Generated**: 2025-10-08 00:25:42
 
 ---
 
@@ -30,7 +30,9 @@ After this period, the version will reach End Of Life (**EOL**), and will no lon
 
 | Version          | Release Date       | EOL Date           |
 |------------------|--------------------|--------------------|
-| 4.0.2            | September 05, 2025 |                    |
+| 4.1.0            | September 29, 2025 |                    |
+| 4.0.3            | September 11, 2025 | September 29, 2026 |
+| 4.0.2            | September 05, 2025 | September 11, 2026 |
 | 4.0.1            | May 19, 2025       | September 05, 2026 |
 | 4.0.0            | May 07, 2025       | May 19, 2026       |
 | 3.6.2            | March 03, 2025     | May 07, 2026       |
