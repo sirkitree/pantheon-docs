@@ -1,7 +1,7 @@
 # content/guides/git/06-resolve-merge-conflicts.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/git/06-resolve-merge-conflicts.md
-> **Generated**: 2025-10-09 06:09:45
+> **Generated**: 2025-10-09 09:07:16
 
 ---
 
