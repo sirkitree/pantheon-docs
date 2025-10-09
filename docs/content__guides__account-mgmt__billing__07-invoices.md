@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/billing/07-invoices.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/billing/07-invoices.md
-> **Generated**: 2025-10-09 15:26:19
+> **Generated**: 2025-10-09 18:08:33
 
 ---
 

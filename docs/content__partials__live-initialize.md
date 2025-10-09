@@ -1,7 +1,7 @@
 # content/partials/live-initialize.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/live-initialize.md
-> **Generated**: 2025-10-09 15:26:20
+> **Generated**: 2025-10-09 18:08:33
 
 ---
 
