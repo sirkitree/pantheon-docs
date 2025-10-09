@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/06-wordpress-cron.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/06-wordpress-cron.md
-> **Generated**: 2025-10-09 18:08:33
+> **Generated**: 2025-10-09 21:06:26
 
 ---
 
