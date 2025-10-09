@@ -1,7 +1,7 @@
 # content/guides/launch/06-configure-dns.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/06-configure-dns.md
-> **Generated**: 2025-10-09 09:07:16
+> **Generated**: 2025-10-09 12:10:56
 
 ---
 
