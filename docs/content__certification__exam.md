@@ -1,7 +1,7 @@
 # content/certification/exam.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/exam.md
-> **Generated**: 2025-10-10 09:07:16
+> **Generated**: 2025-10-10 12:11:10
 
 ---
 
