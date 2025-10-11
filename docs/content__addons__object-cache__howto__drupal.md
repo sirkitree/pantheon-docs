@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/drupal.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/drupal.md
-> **Generated**: 2025-10-11 09:06:03
+> **Generated**: 2025-10-11 12:09:28
 
 ---
 
