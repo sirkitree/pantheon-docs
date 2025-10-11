@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-btworkflow/15-deploy.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-btworkflow/15-deploy.md
-> **Generated**: 2025-10-10 21:05:58
+> **Generated**: 2025-10-11 00:24:49
 
 ---
 

@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/08-extend.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/08-extend.md
-> **Generated**: 2025-10-10 21:05:58
+> **Generated**: 2025-10-11 00:24:48
 
 ---
 
