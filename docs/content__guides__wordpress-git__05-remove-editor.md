@@ -1,7 +1,7 @@
 # content/guides/wordpress-git/05-remove-editor.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-git/05-remove-editor.md
-> **Generated**: 2025-10-11 18:07:33
+> **Generated**: 2025-10-11 21:05:53
 
 ---
 
