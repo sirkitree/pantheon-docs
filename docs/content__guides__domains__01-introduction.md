@@ -1,7 +1,7 @@
 # content/guides/domains/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/01-introduction.md
-> **Generated**: 2025-10-11 03:13:44
+> **Generated**: 2025-10-11 06:08:09
 
 ---
 
