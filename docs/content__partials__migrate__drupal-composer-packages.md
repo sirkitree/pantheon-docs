@@ -1,7 +1,7 @@
 # content/partials/migrate/drupal-composer-packages.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/drupal-composer-packages.md
-> **Generated**: 2025-10-12 18:07:54
+> **Generated**: 2025-10-12 21:05:51
 
 ---
 
