@@ -1,7 +1,7 @@
 # content/guides/local-development/10-continuous-integration.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/local-development/10-continuous-integration.md
-> **Generated**: 2025-10-12 00:27:30
+> **Generated**: 2025-10-12 03:20:14
 
 ---
 

@@ -1,7 +1,7 @@
 # content/dns-providers/route53.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/route53.md
-> **Generated**: 2025-10-12 00:27:30
+> **Generated**: 2025-10-12 03:20:14
 
 ---
 

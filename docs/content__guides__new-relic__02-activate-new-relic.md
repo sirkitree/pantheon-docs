@@ -1,7 +1,7 @@
 # content/guides/new-relic/02-activate-new-relic.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/new-relic/02-activate-new-relic.md
-> **Generated**: 2025-10-12 00:27:30
+> **Generated**: 2025-10-12 03:20:14
 
 ---
 
