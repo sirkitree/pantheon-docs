@@ -1,7 +1,7 @@
 # content/partials/dns-terms.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/dns-terms.md
-> **Generated**: 2025-10-12 03:20:14
+> **Generated**: 2025-10-12 06:08:07
 
 ---
 
