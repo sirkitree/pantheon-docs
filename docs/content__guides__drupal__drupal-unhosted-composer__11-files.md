@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted-composer/11-files.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted-composer/11-files.md
-> **Generated**: 2025-10-12 15:05:54
+> **Generated**: 2025-10-12 18:07:54
 
 ---
 

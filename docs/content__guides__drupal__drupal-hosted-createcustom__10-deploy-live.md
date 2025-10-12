@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createcustom/10-deploy-live.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createcustom/10-deploy-live.md
-> **Generated**: 2025-10-12 15:05:54
+> **Generated**: 2025-10-12 18:07:54
 
 ---
 

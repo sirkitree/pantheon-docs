@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/07-wordpress-font-library.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/07-wordpress-font-library.md
-> **Generated**: 2025-10-12 15:05:55
+> **Generated**: 2025-10-12 18:07:54
 
 ---
 
