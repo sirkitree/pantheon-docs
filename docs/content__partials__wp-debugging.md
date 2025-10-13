@@ -1,7 +1,7 @@
 # content/partials/wp-debugging.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/wp-debugging.md
-> **Generated**: 2025-10-13 03:24:59
+> **Generated**: 2025-10-13 06:10:12
 
 ---
 
