@@ -1,7 +1,7 @@
 # content/style-guide.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/style-guide.md
-> **Generated**: 2025-10-13 00:28:23
+> **Generated**: 2025-10-13 03:24:59
 
 ---
 
