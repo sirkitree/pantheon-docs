@@ -1,7 +1,7 @@
 # content/guides/build-tools/09-update.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/09-update.md
-> **Generated**: 2025-10-13 15:06:50
+> **Generated**: 2025-10-13 18:08:25
 
 ---
 
