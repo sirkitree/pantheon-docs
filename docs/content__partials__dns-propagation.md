@@ -1,7 +1,7 @@
 # content/partials/dns-propagation.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/dns-propagation.md
-> **Generated**: 2025-10-13 12:11:22
+> **Generated**: 2025-10-13 15:06:50
 
 ---
 
