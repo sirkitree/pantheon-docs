@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/plans/09-workspace-plans.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/plans/09-workspace-plans.md
-> **Generated**: 2025-10-14 15:07:20
+> **Generated**: 2025-10-14 18:09:06
 
 ---
 

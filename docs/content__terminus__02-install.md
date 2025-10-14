@@ -1,7 +1,7 @@
 # content/terminus/02-install.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/02-install.md
-> **Generated**: 2025-10-14 15:07:20
+> **Generated**: 2025-10-14 18:09:06
 
 ---
 
@@ -118,7 +118,7 @@ The commands below will:
 
 ```bash{promptUser: user}
 mkdir -p ~/terminus && cd ~/terminus
-curl -L https://github.com/pantheon-systems/terminus/releases/download/4.0.3/terminus.phar --output terminus
+curl -L https://github.com/pantheon-systems/terminus/releases/download/4.1.0/terminus.phar --output terminus
 chmod +x terminus
 ./terminus self:update
 sudo ln -s ~/terminus/terminus /usr/local/bin/terminus

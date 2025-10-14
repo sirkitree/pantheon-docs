@@ -1,7 +1,7 @@
 # content/guides/wordpress-git/03-themes.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-git/03-themes.md
-> **Generated**: 2025-10-14 15:07:20
+> **Generated**: 2025-10-14 18:09:06
 
 ---
 
