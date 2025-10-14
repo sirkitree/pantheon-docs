@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted/11-upload-files.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted/11-upload-files.md
-> **Generated**: 2025-10-14 06:10:01
+> **Generated**: 2025-10-14 09:07:10
 
 ---
 
