@@ -1,7 +1,7 @@
 # content/code-of-conduct.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/code-of-conduct.md
-> **Generated**: 2025-10-14 03:19:41
+> **Generated**: 2025-10-14 06:10:01
 
 ---
 
