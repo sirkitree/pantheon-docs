@@ -1,7 +1,7 @@
 # content/guides/secure-development/04-private-paths.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/secure-development/04-private-paths.md
-> **Generated**: 2025-10-14 00:25:46
+> **Generated**: 2025-10-14 03:19:42
 
 ---
 
