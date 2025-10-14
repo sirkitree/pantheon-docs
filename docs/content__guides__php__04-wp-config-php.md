@@ -1,7 +1,7 @@
 # content/guides/php/04-wp-config-php.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/php/04-wp-config-php.md
-> **Generated**: 2025-10-13 21:06:09
+> **Generated**: 2025-10-14 00:25:46
 
 ---
 
