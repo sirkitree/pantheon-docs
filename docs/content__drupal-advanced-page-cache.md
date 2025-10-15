@@ -1,7 +1,7 @@
 # content/drupal-advanced-page-cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-advanced-page-cache.md
-> **Generated**: 2025-10-14 21:06:10
+> **Generated**: 2025-10-15 00:26:57
 
 ---
 
