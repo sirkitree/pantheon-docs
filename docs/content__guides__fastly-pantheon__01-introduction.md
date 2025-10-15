@@ -1,7 +1,7 @@
 # content/guides/fastly-pantheon/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/fastly-pantheon/01-introduction.md
-> **Generated**: 2025-10-15 09:07:16
+> **Generated**: 2025-10-15 12:12:04
 
 ---
 
