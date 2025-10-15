@@ -1,7 +1,7 @@
 # content/partials/replace-credit-card.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/replace-credit-card.md
-> **Generated**: 2025-10-15 06:09:52
+> **Generated**: 2025-10-15 09:07:16
 
 ---
 
