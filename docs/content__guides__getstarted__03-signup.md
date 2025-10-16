@@ -1,7 +1,7 @@
 # content/guides/getstarted/03-signup.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/getstarted/03-signup.md
-> **Generated**: 2025-10-16 00:27:06
+> **Generated**: 2025-10-16 03:21:57
 
 ---
 

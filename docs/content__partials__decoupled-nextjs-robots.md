@@ -1,7 +1,7 @@
 # content/partials/decoupled-nextjs-robots.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-nextjs-robots.md
-> **Generated**: 2025-10-16 00:27:07
+> **Generated**: 2025-10-16 03:21:58
 
 ---
 
