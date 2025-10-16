@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/02-platform-site-info.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/02-platform-site-info.md
-> **Generated**: 2025-10-16 18:08:39
+> **Generated**: 2025-10-16 21:05:59
 
 ---
 

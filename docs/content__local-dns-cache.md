@@ -1,7 +1,7 @@
 # content/local-dns-cache.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/local-dns-cache.md
-> **Generated**: 2025-10-16 18:08:39
+> **Generated**: 2025-10-16 21:05:59
 
 ---
 
