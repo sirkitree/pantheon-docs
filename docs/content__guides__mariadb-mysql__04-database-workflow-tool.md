@@ -1,7 +1,7 @@
 # content/guides/mariadb-mysql/04-database-workflow-tool.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/mariadb-mysql/04-database-workflow-tool.md
-> **Generated**: 2025-10-17 03:20:18
+> **Generated**: 2025-10-17 06:09:24
 
 ---
 
