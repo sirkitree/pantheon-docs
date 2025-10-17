@@ -1,7 +1,7 @@
 # content/guides/decoupled/overview/03-site-options.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/overview/03-site-options.md
-> **Generated**: 2025-10-16 21:05:59
+> **Generated**: 2025-10-17 00:26:31
 
 ---
 
