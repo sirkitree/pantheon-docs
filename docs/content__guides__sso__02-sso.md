@@ -1,7 +1,7 @@
 # content/guides/sso/02-sso.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sso/02-sso.md
-> **Generated**: 2025-10-17 18:07:49
+> **Generated**: 2025-10-17 21:05:48
 
 ---
 
