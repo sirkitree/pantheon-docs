@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/00-intro.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/00-intro.md
-> **Generated**: 2025-10-17 06:09:23
+> **Generated**: 2025-10-17 09:07:20
 
 ---
 
