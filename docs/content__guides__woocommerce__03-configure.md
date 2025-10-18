@@ -1,7 +1,7 @@
 # content/guides/woocommerce/03-configure.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/woocommerce/03-configure.md
-> **Generated**: 2025-10-18 03:14:56
+> **Generated**: 2025-10-18 06:08:18
 
 ---
 
