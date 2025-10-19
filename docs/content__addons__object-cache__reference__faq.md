@@ -1,7 +1,7 @@
 # content/addons/object-cache/reference/faq.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/reference/faq.md
-> **Generated**: 2025-10-18 21:05:37
+> **Generated**: 2025-10-19 00:29:51
 
 ---
 
