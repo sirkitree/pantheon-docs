@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/07-terminus-platform.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/07-terminus-platform.md
-> **Generated**: 2025-10-19 03:27:30
+> **Generated**: 2025-10-19 06:08:45
 
 ---
 

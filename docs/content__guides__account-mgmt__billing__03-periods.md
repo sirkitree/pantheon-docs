@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/billing/03-periods.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/billing/03-periods.md
-> **Generated**: 2025-10-19 03:27:30
+> **Generated**: 2025-10-19 06:08:45
 
 ---
 
