@@ -1,7 +1,7 @@
 # content/guides/account-mgmt/account/03-types.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/account-mgmt/account/03-types.md
-> **Generated**: 2025-10-19 12:09:42
+> **Generated**: 2025-10-19 15:05:51
 
 ---
 

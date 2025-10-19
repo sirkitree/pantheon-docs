@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-md/07-drupal-core-version.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-md/07-drupal-core-version.md
-> **Generated**: 2025-10-19 12:09:42
+> **Generated**: 2025-10-19 15:05:51
 
 ---
 
