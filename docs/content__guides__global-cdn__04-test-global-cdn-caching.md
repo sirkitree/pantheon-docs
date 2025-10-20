@@ -1,7 +1,7 @@
 # content/guides/global-cdn/04-test-global-cdn-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/04-test-global-cdn-caching.md
-> **Generated**: 2025-10-20 09:08:05
+> **Generated**: 2025-10-20 12:11:28
 
 ---
 
