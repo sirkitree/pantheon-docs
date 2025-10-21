@@ -1,7 +1,7 @@
 # content/drupal-to-build-tools.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-to-build-tools.md
-> **Generated**: 2025-10-21 12:11:34
+> **Generated**: 2025-10-21 15:07:42
 
 ---
 
