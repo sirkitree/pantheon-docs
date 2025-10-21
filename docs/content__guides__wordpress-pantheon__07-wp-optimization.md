@@ -1,7 +1,7 @@
 # content/guides/wordpress-pantheon/07-wp-optimization.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-pantheon/07-wp-optimization.md
-> **Generated**: 2025-10-21 18:08:55
+> **Generated**: 2025-10-21 21:06:38
 
 ---
 
