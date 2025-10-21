@@ -1,7 +1,7 @@
 # content/guides/launch/07-redirects.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/07-redirects.md
-> **Generated**: 2025-10-21 00:26:52
+> **Generated**: 2025-10-21 03:23:07
 
 ---
 

@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted-composer/07-deploy-dev.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted-composer/07-deploy-dev.md
-> **Generated**: 2025-10-21 00:26:52
+> **Generated**: 2025-10-21 03:23:07
 
 ---
 
