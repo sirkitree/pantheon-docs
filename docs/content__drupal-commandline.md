@@ -1,7 +1,7 @@
 # content/drupal-commandline.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-commandline.md
-> **Generated**: 2025-10-21 09:07:27
+> **Generated**: 2025-10-21 12:11:34
 
 ---
 
