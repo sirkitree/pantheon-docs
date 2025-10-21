@@ -1,7 +1,7 @@
 # content/guides/mariadb-mysql/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/mariadb-mysql/01-introduction.md
-> **Generated**: 2025-10-21 15:07:43
+> **Generated**: 2025-10-21 18:08:55
 
 ---
 
