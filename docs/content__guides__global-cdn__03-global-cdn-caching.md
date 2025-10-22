@@ -1,7 +1,7 @@
 # content/guides/global-cdn/03-global-cdn-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/03-global-cdn-caching.md
-> **Generated**: 2025-10-22 09:08:27
+> **Generated**: 2025-10-22 12:11:26
 
 ---
 
