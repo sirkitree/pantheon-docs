@@ -1,7 +1,7 @@
 # content/partials/drupal/deploy-using-launch.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/deploy-using-launch.md
-> **Generated**: 2025-10-22 06:10:03
+> **Generated**: 2025-10-22 09:08:27
 
 ---
 
