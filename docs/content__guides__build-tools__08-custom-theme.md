@@ -1,7 +1,7 @@
 # content/guides/build-tools/08-custom-theme.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/08-custom-theme.md
-> **Generated**: 2025-10-23 09:07:27
+> **Generated**: 2025-10-23 12:11:18
 
 ---
 
