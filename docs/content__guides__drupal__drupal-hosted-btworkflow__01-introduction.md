@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-btworkflow/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-btworkflow/01-introduction.md
-> **Generated**: 2025-10-23 00:26:39
+> **Generated**: 2025-10-23 03:21:43
 
 ---
 
