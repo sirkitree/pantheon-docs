@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/07-people.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/07-people.md
-> **Generated**: 2025-10-24 15:07:03
+> **Generated**: 2025-10-24 18:08:58
 
 ---
 
@@ -42,7 +42,7 @@ nexturl: /certification/study-guide/extend
 * List and Describe the different site plans available on Pantheon, and the resources associated with each type of plan.
 * Describe the limitations of Pantheon's free tier Sandbox site plans.
 * List the features that are available only in Professional Workspaces, but not in Personal Workspaces.
-* List and Describe the permissions that are associated with the Workspace Administrator, Workspace Team Member, Workspace Developer and Workspace Unprivileged roles.
+* List and Describe the permissions that are associated with the Workspace Administrator, Workspace Team Member, Workspace Developer and Workspace Contributor roles.
 * List and Describe the WebOps features that are unlocked in the Professional Dashboard by upgrading to a Gold Plan.
 
 **Domains on Pantheon**

@@ -1,7 +1,7 @@
 # content/certification/exam.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/exam.md
-> **Generated**: 2025-10-24 15:07:03
+> **Generated**: 2025-10-24 18:08:58
 
 ---
 
@@ -209,7 +209,7 @@ The following directions and instructions were captured by a user on a MacOS dev
 
 ### Role-based Access Control
 
-*   List and Describe the permissions that are associated with the Workspace Administrator, Workspace Team Member, Workspace Developer and Workspace Unprivileged roles.
+*   List and Describe the permissions that are associated with the Workspace Administrator, Workspace Team Member, Workspace Developer and Workspace Contributor roles.
 
 ### Site Creation
 
@@ -288,7 +288,7 @@ The following directions and instructions were captured by a user on a MacOS dev
 *   List and Describe the permissions that are associated with the Workspace Administrator role.
 *   List and Describe the permissions that are associated with the Workspace Team Member role.
 *   List and Describe the permissions that are associated with the Workspace Developer role.
-*   List and Describe the permissions that are associated with the Workspace Unprivileged role.
+*   List and Describe the permissions that are associated with the Workspace Contributor role.
 *   List the features that are available only in Professional Workspaces, but not in Personal Workspaces.
 *   List and Describe the features and functionality accessible through the left navigation bar within the Personal Workspace.
 

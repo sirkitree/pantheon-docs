@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-backend-starters/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-backend-starters/01-introduction.md
-> **Generated**: 2025-10-24 15:07:03
+> **Generated**: 2025-10-24 18:08:58
 
 ---
 
