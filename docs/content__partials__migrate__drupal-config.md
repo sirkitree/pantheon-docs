@@ -1,7 +1,7 @@
 # content/partials/migrate/drupal-config.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/drupal-config.md
-> **Generated**: 2025-10-24 06:09:37
+> **Generated**: 2025-10-24 09:07:39
 
 ---
 
