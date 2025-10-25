@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createcustom/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createcustom/01-introduction.md
-> **Generated**: 2025-10-25 09:06:18
+> **Generated**: 2025-10-25 12:09:38
 
 ---
 
