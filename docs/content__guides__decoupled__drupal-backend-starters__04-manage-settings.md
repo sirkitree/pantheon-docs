@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-backend-starters/04-manage-settings.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-backend-starters/04-manage-settings.md
-> **Generated**: 2025-10-25 12:09:38
+> **Generated**: 2025-10-25 15:06:13
 
 ---
 

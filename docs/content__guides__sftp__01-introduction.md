@@ -1,7 +1,7 @@
 # content/guides/sftp/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/sftp/01-introduction.md
-> **Generated**: 2025-10-25 12:09:38
+> **Generated**: 2025-10-25 15:06:14
 
 ---
 
