@@ -1,7 +1,7 @@
 # content/customer-scheduled-cron-jobs.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/customer-scheduled-cron-jobs.md
-> **Generated**: 2025-10-25 00:26:28
+> **Generated**: 2025-10-25 03:20:50
 
 ---
 

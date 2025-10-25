@@ -1,7 +1,7 @@
 # content/partials/decoupled-nodejs-cli.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-nodejs-cli.md
-> **Generated**: 2025-10-25 00:26:28
+> **Generated**: 2025-10-25 03:20:50
 
 ---
 
