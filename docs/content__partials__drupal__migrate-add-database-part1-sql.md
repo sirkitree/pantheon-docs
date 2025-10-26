@@ -1,7 +1,7 @@
 # content/partials/drupal/migrate-add-database-part1-sql.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/migrate-add-database-part1-sql.md
-> **Generated**: 2025-10-26 09:06:23
+> **Generated**: 2025-10-26 12:09:56
 
 ---
 
