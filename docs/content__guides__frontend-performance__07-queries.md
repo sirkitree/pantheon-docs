@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/07-queries.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/07-queries.md
-> **Generated**: 2025-10-26 06:08:31
+> **Generated**: 2025-10-26 09:06:23
 
 ---
 
