@@ -1,7 +1,7 @@
 # content/partials/remove-addons/wp-redis.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-addons/wp-redis.md
-> **Generated**: 2025-10-26 15:06:04
+> **Generated**: 2025-10-26 18:08:12
 
 ---
 

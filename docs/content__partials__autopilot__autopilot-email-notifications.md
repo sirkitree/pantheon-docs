@@ -1,7 +1,7 @@
 # content/partials/autopilot/autopilot-email-notifications.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/autopilot/autopilot-email-notifications.md
-> **Generated**: 2025-10-26 15:06:04
+> **Generated**: 2025-10-26 18:08:12
 
 ---
 
