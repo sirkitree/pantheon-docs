@@ -1,7 +1,7 @@
 # content/guides/wordpress-google-sso/05-going-live.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-google-sso/05-going-live.md
-> **Generated**: 2025-10-26 12:09:56
+> **Generated**: 2025-10-26 15:06:04
 
 ---
 
