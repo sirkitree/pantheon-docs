@@ -1,7 +1,7 @@
 # content/guides/domains/02-dns.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/02-dns.md
-> **Generated**: 2025-10-26 03:24:09
+> **Generated**: 2025-10-26 06:08:31
 
 ---
 
