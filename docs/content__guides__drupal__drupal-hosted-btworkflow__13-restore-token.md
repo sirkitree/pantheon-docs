@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-btworkflow/13-restore-token.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-btworkflow/13-restore-token.md
-> **Generated**: 2025-10-27 06:10:48
+> **Generated**: 2025-10-27 09:08:58
 
 ---
 
