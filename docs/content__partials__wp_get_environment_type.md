@@ -1,7 +1,7 @@
 # content/partials/wp_get_environment_type.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/wp_get_environment_type.md
-> **Generated**: 2025-10-27 12:11:43
+> **Generated**: 2025-10-27 15:07:21
 
 ---
 
