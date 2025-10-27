@@ -1,7 +1,7 @@
 # content/guides/domains/03-platform-domains.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/domains/03-platform-domains.md
-> **Generated**: 2025-10-27 15:07:21
+> **Generated**: 2025-10-27 18:09:20
 
 ---
 
