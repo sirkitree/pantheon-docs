@@ -1,7 +1,7 @@
 # content/dns-providers/123-reg.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/123-reg.md
-> **Generated**: 2025-10-28 15:07:22
+> **Generated**: 2025-10-28 18:09:21
 
 ---
 
