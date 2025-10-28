@@ -1,7 +1,7 @@
 # content/guides/autopilot-custom-upstream/03-wp-autopilot-custom-upstream.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/autopilot-custom-upstream/03-wp-autopilot-custom-upstream.md
-> **Generated**: 2025-10-28 06:10:00
+> **Generated**: 2025-10-28 09:07:14
 
 ---
 
