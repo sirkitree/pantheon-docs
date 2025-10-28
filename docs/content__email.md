@@ -1,7 +1,7 @@
 # content/email.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/email.md
-> **Generated**: 2025-10-28 09:07:14
+> **Generated**: 2025-10-28 12:11:21
 
 ---
 
