@@ -1,7 +1,7 @@
 # content/guides/accessibility/01-overview.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/accessibility/01-overview.md
-> **Generated**: 2025-10-29 09:07:23
+> **Generated**: 2025-10-29 12:11:50
 
 ---
 
