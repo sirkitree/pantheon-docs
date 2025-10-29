@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/08-installing-updating-from-third-party-sources.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/08-installing-updating-from-third-party-sources.md
-> **Generated**: 2025-10-29 15:07:29
+> **Generated**: 2025-10-29 18:09:08
 
 ---
 
@@ -27,7 +27,7 @@ This section provides guidance on how to manage plugins that use third-party sou
 
 <Alert title="Note" type="info" >
 
-All the guidance in this document is intended to be used in conjunction with Dev or Multidev environments on Pantheon where version-controlled files can be changed directly. [Pantheon's security practices lock down file permissions in the Test and Live environments]("guides/filesystem/files-directories#write-access-on-environments").
+All the guidance in this document is intended to be used in conjunction with Dev or Multidev environments on Pantheon where version-controlled files can be changed directly. [Pantheon's security practices lock down file permissions in the Test and Live environments](/guides/filesystem/files-directories#write-access-on-environments).
 
 </Alert>
 

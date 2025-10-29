@@ -1,7 +1,7 @@
 # content/wordpress-known-issues.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/wordpress-known-issues.md
-> **Generated**: 2025-10-29 15:07:29
+> **Generated**: 2025-10-29 18:09:08
 
 ---
 
@@ -1418,8 +1418,9 @@ if(! defined('WFWAF_STORAGE_ENGINE')) {
 }
 
 if (file_exists('../../code/wp-content/plugins/wordfence/waf/bootstrap.php')) {
-  define("WFWAF_LOG_PATH", '../../code/wp-content/wflogs/');;
+  define("WFWAF_LOG_PATH", '../../code/wp-content/wflogs/');
   include_once '../../code/wp-content/plugins/wordfence/waf/bootstrap.php';
+}
 ```
 
 **Advantages:** Customers have reported improved file system performance without having to compromise on Wordfence's features.
