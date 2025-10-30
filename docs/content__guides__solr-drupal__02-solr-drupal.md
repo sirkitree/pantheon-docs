@@ -1,7 +1,7 @@
 # content/guides/solr-drupal/02-solr-drupal.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/solr-drupal/02-solr-drupal.md
-> **Generated**: 2025-10-30 03:25:37
+> **Generated**: 2025-10-30 06:09:40
 
 ---
 
