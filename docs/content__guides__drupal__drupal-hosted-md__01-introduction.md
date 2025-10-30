@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-md/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-md/01-introduction.md
-> **Generated**: 2025-10-30 15:07:14
+> **Generated**: 2025-10-30 18:08:26
 
 ---
 

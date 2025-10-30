@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/wordpress.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/wordpress.md
-> **Generated**: 2025-10-30 15:07:14
+> **Generated**: 2025-10-30 18:08:26
 
 ---
 
@@ -245,9 +245,7 @@ Refer to the [official Object Cache Pro documentation](https://objectcache.pro/d
 		'port' => getenv('CACHE_PORT') ?: 6379,
 		'database' => getenv('CACHE_DB') ?: 0,
 		'password' => getenv('CACHE_PASSWORD') ?: null,
-		'maxttl' => 86400,
-		'timeout' => 2.0,
-		'read_timeout' => 2.0,
+		'maxttl' => 86400 * 7,
 		'retry_interval' => 100,
 		'split_alloptions' => true,
 		'prefetch' => true,
