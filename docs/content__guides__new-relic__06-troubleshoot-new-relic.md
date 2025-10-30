@@ -1,7 +1,7 @@
 # content/guides/new-relic/06-troubleshoot-new-relic.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/new-relic/06-troubleshoot-new-relic.md
-> **Generated**: 2025-10-30 12:11:32
+> **Generated**: 2025-10-30 15:07:14
 
 ---
 

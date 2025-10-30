@@ -1,7 +1,7 @@
 # content/terminus/06-plugins.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/06-plugins.md
-> **Generated**: 2025-10-30 12:11:32
+> **Generated**: 2025-10-30 15:07:15
 
 ---
 
