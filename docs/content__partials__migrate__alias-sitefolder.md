@@ -1,7 +1,7 @@
 # content/partials/migrate/alias-sitefolder.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/migrate/alias-sitefolder.md
-> **Generated**: 2025-10-31 15:06:29
+> **Generated**: 2025-10-31 18:09:16
 
 ---
 
