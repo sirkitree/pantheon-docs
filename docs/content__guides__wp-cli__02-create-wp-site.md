@@ -1,7 +1,7 @@
 # content/guides/wp-cli/02-create-wp-site.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wp-cli/02-create-wp-site.md
-> **Generated**: 2025-10-31 06:09:41
+> **Generated**: 2025-10-31 09:07:20
 
 ---
 
