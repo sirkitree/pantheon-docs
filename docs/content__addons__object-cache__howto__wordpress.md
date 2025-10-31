@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/wordpress.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/wordpress.md
-> **Generated**: 2025-10-30 21:06:39
+> **Generated**: 2025-10-31 00:27:08
 
 ---
 
@@ -394,9 +394,7 @@ define( 'WP_REDIS_CONFIG', [
 	'port' => getenv('CACHE_PORT') ?: 6379,
 	'database' => getenv('CACHE_DB') ?: 0,
 	'password' => getenv('CACHE_PASSWORD') ?: null,
-	'maxttl' => 86400,
-	'timeout' => 2.0,
-	'read_timeout' => 2.0,
+	'maxttl' => 86400 * 7,
 	'retry_interval' => 100,
 	'split_alloptions' => true,
 	'prefetch' => true,

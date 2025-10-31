@@ -1,7 +1,7 @@
 # content/guides/build-tools/04-configure.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/build-tools/04-configure.md
-> **Generated**: 2025-10-30 21:06:39
+> **Generated**: 2025-10-31 00:27:08
 
 ---
 

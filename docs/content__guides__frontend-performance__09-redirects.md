@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/09-redirects.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/09-redirects.md
-> **Generated**: 2025-10-30 21:06:39
+> **Generated**: 2025-10-31 00:27:08
 
 ---
 
