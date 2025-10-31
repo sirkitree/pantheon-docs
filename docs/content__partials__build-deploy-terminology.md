@@ -1,7 +1,7 @@
 # content/partials/build-deploy-terminology.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/build-deploy-terminology.md
-> **Generated**: 2025-10-31 03:26:04
+> **Generated**: 2025-10-31 06:09:41
 
 ---
 
