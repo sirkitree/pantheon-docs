@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createbt/05-upgrade.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createbt/05-upgrade.md
-> **Generated**: 2025-11-01 00:29:24
+> **Generated**: 2025-11-01 03:25:22
 
 ---
 
