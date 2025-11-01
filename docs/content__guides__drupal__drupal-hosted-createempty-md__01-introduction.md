@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createempty-md/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createempty-md/01-introduction.md
-> **Generated**: 2025-11-01 15:06:02
+> **Generated**: 2025-11-01 18:07:38
 
 ---
 
