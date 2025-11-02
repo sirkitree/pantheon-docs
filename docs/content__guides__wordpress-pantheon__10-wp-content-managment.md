@@ -1,7 +1,7 @@
 # content/guides/wordpress-pantheon/10-wp-content-managment.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-pantheon/10-wp-content-managment.md
-> **Generated**: 2025-11-02 00:29:52
+> **Generated**: 2025-11-02 03:27:10
 
 ---
 
