@@ -1,7 +1,7 @@
 # content/nextjs/multidev.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/nextjs/multidev.md
-> **Generated**: 2025-11-02 12:09:31
+> **Generated**: 2025-11-02 15:05:40
 
 ---
 
