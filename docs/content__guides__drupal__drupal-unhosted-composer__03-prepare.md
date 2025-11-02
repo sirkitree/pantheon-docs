@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted-composer/03-prepare.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted-composer/03-prepare.md
-> **Generated**: 2025-11-02 03:27:09
+> **Generated**: 2025-11-02 06:09:18
 
 ---
 
