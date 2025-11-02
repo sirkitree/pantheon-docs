@@ -1,7 +1,7 @@
 # content/guides/logs-pantheon/05-nginx-access-logs.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/logs-pantheon/05-nginx-access-logs.md
-> **Generated**: 2025-11-02 09:06:12
+> **Generated**: 2025-11-02 12:09:30
 
 ---
 
