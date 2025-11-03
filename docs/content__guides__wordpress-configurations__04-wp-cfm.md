@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/04-wp-cfm.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/04-wp-cfm.md
-> **Generated**: 2025-11-03 03:29:54
+> **Generated**: 2025-11-03 06:10:45
 
 ---
 

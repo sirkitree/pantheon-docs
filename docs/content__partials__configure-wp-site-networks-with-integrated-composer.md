@@ -1,7 +1,7 @@
 # content/partials/configure-wp-site-networks-with-integrated-composer.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/configure-wp-site-networks-with-integrated-composer.md
-> **Generated**: 2025-11-03 03:29:54
+> **Generated**: 2025-11-03 06:10:46
 
 ---
 
