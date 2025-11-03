@@ -1,7 +1,7 @@
 # content/guides/drush/05-drush-import.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/05-drush-import.md
-> **Generated**: 2025-11-03 12:11:55
+> **Generated**: 2025-11-03 15:07:07
 
 ---
 
