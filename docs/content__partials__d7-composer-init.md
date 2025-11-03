@@ -1,7 +1,7 @@
 # content/partials/d7-composer-init.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/d7-composer-init.md
-> **Generated**: 2025-11-03 15:07:08
+> **Generated**: 2025-11-03 18:09:03
 
 ---
 
