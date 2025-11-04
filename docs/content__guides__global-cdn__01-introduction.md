@@ -1,7 +1,7 @@
 # content/guides/global-cdn/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/global-cdn/01-introduction.md
-> **Generated**: 2025-11-04 09:08:16
+> **Generated**: 2025-11-04 12:12:04
 
 ---
 

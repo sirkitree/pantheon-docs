@@ -1,7 +1,7 @@
 # content/partials/drupal/migrate-add-database-part2.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/migrate-add-database-part2.md
-> **Generated**: 2025-11-04 09:08:16
+> **Generated**: 2025-11-04 12:12:04
 
 ---
 
