@@ -1,7 +1,7 @@
 # content/partials/decoupled-caching.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/decoupled-caching.md
-> **Generated**: 2025-11-04 18:09:01
+> **Generated**: 2025-11-04 21:06:55
 
 ---
 
