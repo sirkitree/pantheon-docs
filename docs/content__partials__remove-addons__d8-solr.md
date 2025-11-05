@@ -1,7 +1,7 @@
 # content/partials/remove-addons/d8-solr.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-addons/d8-solr.md
-> **Generated**: 2025-11-05 15:18:14
+> **Generated**: 2025-11-05 18:09:27
 
 ---
 
