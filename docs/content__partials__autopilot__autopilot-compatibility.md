@@ -1,7 +1,7 @@
 # content/partials/autopilot/autopilot-compatibility.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/autopilot/autopilot-compatibility.md
-> **Generated**: 2025-11-05 12:11:49
+> **Generated**: 2025-11-05 15:18:14
 
 ---
 
