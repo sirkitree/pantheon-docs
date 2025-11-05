@@ -1,7 +1,7 @@
 # content/drupal-cms.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/drupal-cms.md
-> **Generated**: 2025-11-05 03:25:53
+> **Generated**: 2025-11-05 06:09:52
 
 ---
 
