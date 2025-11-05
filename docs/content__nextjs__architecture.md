@@ -1,7 +1,7 @@
 # content/nextjs/architecture.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/nextjs/architecture.md
-> **Generated**: 2025-11-05 06:09:52
+> **Generated**: 2025-11-05 09:07:55
 
 ---
 
