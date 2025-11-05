@@ -1,7 +1,7 @@
 # content/guides/agcdn/02-features.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/agcdn/02-features.md
-> **Generated**: 2025-11-05 00:28:22
+> **Generated**: 2025-11-05 03:25:53
 
 ---
 

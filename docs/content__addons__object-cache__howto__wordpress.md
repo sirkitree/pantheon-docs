@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/wordpress.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/wordpress.md
-> **Generated**: 2025-11-05 00:28:22
+> **Generated**: 2025-11-05 03:25:53
 
 ---
 

@@ -1,7 +1,7 @@
 # content/guides/launch/03-plans.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/03-plans.md
-> **Generated**: 2025-11-05 00:28:22
+> **Generated**: 2025-11-05 03:25:54
 
 ---
 
