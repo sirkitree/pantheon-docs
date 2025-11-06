@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/08-extend.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/08-extend.md
-> **Generated**: 2025-11-05 21:06:34
+> **Generated**: 2025-11-06 00:27:46
 
 ---
 
@@ -69,7 +69,7 @@ In this section, we will install Terminus, Pantheon’s command line interface t
 
 This section provides information on how to install and authenticate Terminus. Terminus is available for MacOS and Linux. Windows 10 users can install the Windows Subsystem for Linux, and then install Terminus in the Linux shell.
 
-Some Terminus commands use SSH authentication. You should add [SSH keys](/certification/study-guide/chapter-6-deployment#connect-with-ssh) to your account before you continue.
+Some Terminus commands use SSH authentication. You should add [SSH keys](/certification/study-guide/deploy#connect-with-ssh) to your account before you continue.
 
 
 | **Compatible Operating Systems** | **Incompatible Operating Systems**|

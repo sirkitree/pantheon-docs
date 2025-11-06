@@ -1,7 +1,7 @@
 # content/certification/study-guide-cms/03-create.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/certification/study-guide-cms/03-create.md
-> **Generated**: 2025-11-05 21:06:34
+> **Generated**: 2025-11-06 00:27:46
 
 ---
 
@@ -183,7 +183,7 @@ Pantheon’s **cloud-based file system,** runs multiple layers of caching and is
 
 This architecture provides everything needed to build, launch and manage websites that achieve unmatched performance and reliability.
 
-The next two chapters will dive deeper into these layers of [Edge technology](/certification/study-guide/chapter-4-edge) and [CMS Infrastructure](/certification/study-guide/chapter-5-cms).
+The next two chapters will dive deeper into these layers of [Edge technology](/certification/study-guide/cdn) and [CMS Infrastructure](/certification/study-guide/cms).
 
 <Alert title="Key Takeaways"  type="info" >
 
