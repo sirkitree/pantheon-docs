@@ -1,7 +1,7 @@
 # content/guides/launch/04-domains.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/04-domains.md
-> **Generated**: 2025-11-06 09:07:50
+> **Generated**: 2025-11-06 12:11:34
 
 ---
 
