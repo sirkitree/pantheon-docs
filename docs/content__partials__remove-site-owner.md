@@ -1,7 +1,7 @@
 # content/partials/remove-site-owner.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-site-owner.md
-> **Generated**: 2025-11-06 00:27:47
+> **Generated**: 2025-11-06 03:27:57
 
 ---
 

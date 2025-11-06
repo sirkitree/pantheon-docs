@@ -1,7 +1,7 @@
 # content/tax-exempt-status.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/tax-exempt-status.md
-> **Generated**: 2025-11-06 00:27:47
+> **Generated**: 2025-11-06 03:27:57
 
 ---
 
