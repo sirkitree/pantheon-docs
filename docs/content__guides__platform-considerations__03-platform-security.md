@@ -1,7 +1,7 @@
 # content/guides/platform-considerations/03-platform-security.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/platform-considerations/03-platform-security.md
-> **Generated**: 2025-11-06 21:06:37
+> **Generated**: 2025-11-07 00:28:13
 
 ---
 
