@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/08-installing-updating-from-third-party-sources.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/08-installing-updating-from-third-party-sources.md
-> **Generated**: 2025-11-07 00:28:13
+> **Generated**: 2025-11-07 03:25:40
 
 ---
 
