@@ -1,7 +1,7 @@
 # content/partials/nextjs-pre-ga.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/nextjs-pre-ga.md
-> **Generated**: 2025-11-07 18:08:44
+> **Generated**: 2025-11-07 21:05:30
 
 ---
 
