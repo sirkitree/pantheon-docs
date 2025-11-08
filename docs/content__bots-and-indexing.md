@@ -1,7 +1,7 @@
 # content/bots-and-indexing.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/bots-and-indexing.md
-> **Generated**: 2025-11-08 09:06:17
+> **Generated**: 2025-11-08 12:09:43
 
 ---
 
