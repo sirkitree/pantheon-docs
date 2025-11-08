@@ -1,7 +1,7 @@
 # content/addons/object-cache/howto/remove.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/addons/object-cache/howto/remove.md
-> **Generated**: 2025-11-08 06:09:00
+> **Generated**: 2025-11-08 09:06:17
 
 ---
 
