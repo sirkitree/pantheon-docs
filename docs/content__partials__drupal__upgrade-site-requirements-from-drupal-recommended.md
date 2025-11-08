@@ -1,7 +1,7 @@
 # content/partials/drupal/upgrade-site-requirements-from-drupal-recommended.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/upgrade-site-requirements-from-drupal-recommended.md
-> **Generated**: 2025-11-08 00:25:42
+> **Generated**: 2025-11-08 03:20:52
 
 ---
 
