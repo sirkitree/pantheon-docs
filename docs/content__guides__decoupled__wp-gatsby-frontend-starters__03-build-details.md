@@ -1,7 +1,7 @@
 # content/guides/decoupled/wp-gatsby-frontend-starters/03-build-details.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/wp-gatsby-frontend-starters/03-build-details.md
-> **Generated**: 2025-11-08 12:09:43
+> **Generated**: 2025-11-08 15:06:07
 
 ---
 

@@ -1,7 +1,7 @@
 # content/partials/remove-primary-domain.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/remove-primary-domain.md
-> **Generated**: 2025-11-08 12:09:43
+> **Generated**: 2025-11-08 15:06:08
 
 ---
 
