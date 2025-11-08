@@ -1,7 +1,7 @@
 # content/modules-known-issues.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/modules-known-issues.md
-> **Generated**: 2025-11-07 21:05:29
+> **Generated**: 2025-11-08 00:25:42
 
 ---
 
@@ -93,7 +93,7 @@ ___
 
 **Issue**: The BigPipe module intercepts Drupal application requests, occasionally holding visitor sessions open indefinitely. On more complex Drupal applications, these open visitor sessions can result in a site's Redis layer experiecing memory exhaustion, cache corruption, and inability to serve web requests ("504 timeout" errors). Sites with BigPipe who are unable to serve web requests will also experience a lack of server-level traffic logs in the `nginx-access.log` file, and inhibiting traffic auditing. 
 
-**Solution**: Pantheon recommends disabling BigPipe for sites hosted on our platform. 
+**Solution**: Pantheon recommends disabling BigPipe for sites hosted on our platform. For sites with [Pantheon Advanced Page Cache](https://www.drupal.org/project/pantheon_advanced_page_cache) 2.3.4 installed, BigPipe is automatically disabled.
 ___
 
 ## [Boost](https://www.drupal.org/project/boost)
