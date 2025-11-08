@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-unhosted-composer/05-contrib-custom.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-unhosted-composer/05-contrib-custom.md
-> **Generated**: 2025-11-08 15:06:07
+> **Generated**: 2025-11-08 18:08:03
 
 ---
 

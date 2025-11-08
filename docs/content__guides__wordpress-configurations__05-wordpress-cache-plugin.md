@@ -1,7 +1,7 @@
 # content/guides/wordpress-configurations/05-wordpress-cache-plugin.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-configurations/05-wordpress-cache-plugin.md
-> **Generated**: 2025-11-08 15:06:07
+> **Generated**: 2025-11-08 18:08:03
 
 ---
 
