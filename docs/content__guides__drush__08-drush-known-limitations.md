@@ -1,7 +1,7 @@
 # content/guides/drush/08-drush-known-limitations.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/08-drush-known-limitations.md
-> **Generated**: 2025-11-09 06:08:59
+> **Generated**: 2025-11-09 09:06:11
 
 ---
 
