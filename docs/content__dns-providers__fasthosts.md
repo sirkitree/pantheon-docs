@@ -1,7 +1,7 @@
 # content/dns-providers/fasthosts.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/fasthosts.md
-> **Generated**: 2025-11-09 15:06:05
+> **Generated**: 2025-11-09 18:08:14
 
 ---
 
