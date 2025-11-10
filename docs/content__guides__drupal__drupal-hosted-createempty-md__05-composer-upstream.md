@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createempty-md/05-composer-upstream.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createempty-md/05-composer-upstream.md
-> **Generated**: 2025-11-09 21:05:37
+> **Generated**: 2025-11-10 00:29:21
 
 ---
 
