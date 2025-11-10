@@ -1,7 +1,7 @@
 # content/php-runtime-generation-2.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/php-runtime-generation-2.md
-> **Generated**: 2025-11-10 18:08:57
+> **Generated**: 2025-11-10 21:06:40
 
 ---
 
@@ -72,6 +72,7 @@ Once the Dev environment for a site has been upgraded to Generation 2, deploying
 | October 16 | Basic | Dev/Multidevs |
 | October 29 | Performance/Elite | Dev/Multidevs |
 | November 3 | Basic | Test/Live |
+| November 17 | Performance/Elite | Test/Live |
 
 
 ## Known Changes and Requirements
