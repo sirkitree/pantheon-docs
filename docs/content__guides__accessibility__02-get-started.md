@@ -1,7 +1,7 @@
 # content/guides/accessibility/02-get-started.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/accessibility/02-get-started.md
-> **Generated**: 2025-11-10 12:11:36
+> **Generated**: 2025-11-10 15:07:12
 
 ---
 

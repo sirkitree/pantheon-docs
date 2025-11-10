@@ -1,7 +1,7 @@
 # content/guides/launch/05-advanced-curls.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/launch/05-advanced-curls.md
-> **Generated**: 2025-11-10 12:11:36
+> **Generated**: 2025-11-10 15:07:13
 
 ---
 
