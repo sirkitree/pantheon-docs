@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted/07-code.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted/07-code.md
-> **Generated**: 2025-11-10 09:08:35
+> **Generated**: 2025-11-10 12:11:36
 
 ---
 
