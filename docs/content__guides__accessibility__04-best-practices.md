@@ -1,7 +1,7 @@
 # content/guides/accessibility/04-best-practices.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/accessibility/04-best-practices.md
-> **Generated**: 2025-11-10 15:07:12
+> **Generated**: 2025-11-10 18:08:56
 
 ---
 

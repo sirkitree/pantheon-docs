@@ -1,7 +1,7 @@
 # content/dns-providers/register-com.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/register-com.md
-> **Generated**: 2025-11-10 15:07:12
+> **Generated**: 2025-11-10 18:08:56
 
 ---
 
