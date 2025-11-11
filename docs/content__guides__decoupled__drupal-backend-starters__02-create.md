@@ -1,7 +1,7 @@
 # content/guides/decoupled/drupal-backend-starters/02-create.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/drupal-backend-starters/02-create.md
-> **Generated**: 2025-11-11 15:07:08
+> **Generated**: 2025-11-11 18:09:03
 
 ---
 
