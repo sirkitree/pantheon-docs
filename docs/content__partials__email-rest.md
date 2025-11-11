@@ -1,7 +1,7 @@
 # content/partials/email-rest.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/email-rest.md
-> **Generated**: 2025-11-11 12:11:23
+> **Generated**: 2025-11-11 15:07:09
 
 ---
 
