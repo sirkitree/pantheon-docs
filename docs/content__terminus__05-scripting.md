@@ -1,7 +1,7 @@
 # content/terminus/05-scripting.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/05-scripting.md
-> **Generated**: 2025-11-11 18:09:04
+> **Generated**: 2025-11-11 21:06:26
 
 ---
 

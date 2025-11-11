@@ -1,7 +1,7 @@
 # content/guides/wordpress-developer/04-xml-rpc-attacks.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/wordpress-developer/04-xml-rpc-attacks.md
-> **Generated**: 2025-11-11 18:09:03
+> **Generated**: 2025-11-11 21:06:26
 
 ---
 
