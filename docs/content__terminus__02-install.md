@@ -1,7 +1,7 @@
 # content/terminus/02-install.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/02-install.md
-> **Generated**: 2025-11-10 21:06:40
+> **Generated**: 2025-11-11 00:28:31
 
 ---
 
