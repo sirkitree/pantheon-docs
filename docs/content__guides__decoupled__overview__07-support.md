@@ -1,7 +1,7 @@
 # content/guides/decoupled/overview/07-support.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/overview/07-support.md
-> **Generated**: 2025-11-11 03:27:14
+> **Generated**: 2025-11-11 06:10:07
 
 ---
 
