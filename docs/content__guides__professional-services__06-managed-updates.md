@@ -1,7 +1,7 @@
 # content/guides/professional-services/06-managed-updates.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/professional-services/06-managed-updates.md
-> **Generated**: 2025-11-12 12:11:46
+> **Generated**: 2025-11-12 15:07:28
 
 ---
 
