@@ -1,7 +1,7 @@
 # content/partials/drupal/prepare-local-environment-no-clone.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/drupal/prepare-local-environment-no-clone.md
-> **Generated**: 2025-11-12 15:07:28
+> **Generated**: 2025-11-12 18:09:44
 
 ---
 
