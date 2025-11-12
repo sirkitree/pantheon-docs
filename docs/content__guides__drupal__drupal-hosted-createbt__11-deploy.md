@@ -1,7 +1,7 @@
 # content/guides/drupal/drupal-hosted-createbt/11-deploy.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drupal/drupal-hosted-createbt/11-deploy.md
-> **Generated**: 2025-11-12 09:08:24
+> **Generated**: 2025-11-12 12:11:46
 
 ---
 
