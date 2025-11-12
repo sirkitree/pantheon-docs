@@ -1,7 +1,7 @@
 # content/guides/redirect/11-mobile.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/redirect/11-mobile.md
-> **Generated**: 2025-11-11 21:06:26
+> **Generated**: 2025-11-12 00:27:55
 
 ---
 
