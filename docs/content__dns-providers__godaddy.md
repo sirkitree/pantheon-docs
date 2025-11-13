@@ -1,7 +1,7 @@
 # content/dns-providers/godaddy.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/dns-providers/godaddy.md
-> **Generated**: 2025-11-13 12:11:43
+> **Generated**: 2025-11-13 15:07:55
 
 ---
 
