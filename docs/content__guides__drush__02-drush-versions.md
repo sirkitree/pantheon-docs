@@ -1,7 +1,7 @@
 # content/guides/drush/02-drush-versions.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/drush/02-drush-versions.md
-> **Generated**: 2025-11-12 21:06:36
+> **Generated**: 2025-11-13 00:27:44
 
 ---
 

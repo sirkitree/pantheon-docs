@@ -1,7 +1,7 @@
 # content/guides/frontend-performance/10-additional-resources.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/frontend-performance/10-additional-resources.md
-> **Generated**: 2025-11-12 21:06:36
+> **Generated**: 2025-11-13 00:27:44
 
 ---
 
