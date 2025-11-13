@@ -1,7 +1,7 @@
 # content/partials/notes/partial-composer-adoption-warning.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/partials/notes/partial-composer-adoption-warning.md
-> **Generated**: 2025-11-13 18:08:46
+> **Generated**: 2025-11-13 21:06:57
 
 ---
 
