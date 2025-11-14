@@ -1,7 +1,7 @@
 # content/guides/enterprise-billing-center/01-introduction.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/enterprise-billing-center/01-introduction.md
-> **Generated**: 2025-11-14 09:07:24
+> **Generated**: 2025-11-14 12:12:02
 
 ---
 
