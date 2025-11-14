@@ -1,7 +1,7 @@
 # content/terminus/ci/github-actions.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/terminus/ci/github-actions.md
-> **Generated**: 2025-11-14 15:06:58
+> **Generated**: 2025-11-14 18:09:14
 
 ---
 
