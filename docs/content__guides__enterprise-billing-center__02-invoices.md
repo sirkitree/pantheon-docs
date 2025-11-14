@@ -1,7 +1,7 @@
 # content/guides/enterprise-billing-center/02-invoices.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/enterprise-billing-center/02-invoices.md
-> **Generated**: 2025-11-14 06:09:50
+> **Generated**: 2025-11-14 09:07:24
 
 ---
 
