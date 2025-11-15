@@ -1,7 +1,7 @@
 # content/guides/professional-services/05-advanced-global-cdn.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/professional-services/05-advanced-global-cdn.md
-> **Generated**: 2025-11-15 18:07:45
+> **Generated**: 2025-11-15 21:05:44
 
 ---
 
