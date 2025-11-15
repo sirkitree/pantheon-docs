@@ -1,7 +1,7 @@
 # content/guides/decoupled/overview/10-v1-pipeline.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/overview/10-v1-pipeline.md
-> **Generated**: 2025-11-15 00:26:58
+> **Generated**: 2025-11-15 03:23:32
 
 ---
 
