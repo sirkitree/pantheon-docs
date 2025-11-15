@@ -1,7 +1,7 @@
 # content/guides/decoupled/no-starter-kit/02-create.md
 
 > **Source**: https://github.com/pantheon-systems/documentation/blob/main/content/guides/decoupled/no-starter-kit/02-create.md
-> **Generated**: 2025-11-15 03:23:32
+> **Generated**: 2025-11-15 06:09:03
 
 ---
 
